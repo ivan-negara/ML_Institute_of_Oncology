@@ -1,0 +1,2497 @@
+"","Department","Date","Zile"
+"1","Brachytherapy",2022-03-04,3
+"2","Brachytherapy",2022-03-11,2
+"3","Brachytherapy",2022-03-18,2
+"4","Brachytherapy",2022-03-25,1
+"5","Brachytherapy",2022-04-01,0
+"6","Brachytherapy",2022-04-08,14
+"7","Brachytherapy",2022-04-15,8
+"8","Brachytherapy",2022-04-22,8
+"9","Brachytherapy",2022-04-29,14
+"10","Brachytherapy",2022-05-06,13
+"11","Brachytherapy",2022-05-13,12
+"12","Brachytherapy",2022-05-20,11
+"13","Brachytherapy",2022-05-27,14
+"14","Brachytherapy",2022-06-03,14
+"15","Brachytherapy",2022-06-10,11
+"16","Brachytherapy",2022-06-17,8
+"17","Brachytherapy",2022-06-24,14
+"18","Brachytherapy",2022-07-01,21
+"19","Brachytherapy",2022-07-08,35
+"20","Brachytherapy",2022-07-15,28
+"21","Brachytherapy",2022-07-22,21
+"22","Brachytherapy",2022-07-29,28
+"23","Brachytherapy",2022-08-05,24
+"24","Brachytherapy",2022-08-12,21
+"25","Brachytherapy",2022-08-19,24
+"26","Brachytherapy",2022-08-26,23
+"27","Brachytherapy",2022-09-02,25
+"28","Brachytherapy",2022-09-09,16
+"29","Brachytherapy",2022-09-16,16
+"30","Brachytherapy",2022-09-23,16
+"31","Brachytherapy",2022-09-30,11
+"32","Brachytherapy",2022-10-07,8
+"33","Brachytherapy",2022-10-14,3
+"34","Brachytherapy",2022-10-21,0
+"35","Brachytherapy",2022-10-28,9
+"36","Brachytherapy",2022-11-04,4
+"37","Brachytherapy",2022-11-11,1
+"38","Brachytherapy",2022-11-18,14
+"39","Brachytherapy",2022-11-25,1
+"40","Brachytherapy",2022-12-02,2
+"41","Brachytherapy",2022-12-09,3
+"42","Brachytherapy",2022-12-16,2
+"43","Brachytherapy",2022-12-23,2
+"44","Brachytherapy",2022-12-30,0
+"45","Brachytherapy",2023-01-06,1
+"46","Brachytherapy",2023-01-13,0
+"47","Brachytherapy",2023-01-20,2
+"48","Brachytherapy",2023-01-27,7
+"49","Brachytherapy",2023-02-03,7
+"50","Brachytherapy",2023-02-10,2
+"51","Brachytherapy",2023-02-17,7
+"52","Brachytherapy",2023-02-24,4
+"53","Brachytherapy",2023-03-03,4
+"54","Brachytherapy",2023-03-10,7
+"55","Brachytherapy",2023-03-17,7
+"56","Brachytherapy",2023-03-24,0
+"57","Brachytherapy",2023-03-31,0
+"58","Brachytherapy",2023-04-07,0
+"59","Brachytherapy",2023-04-14,10
+"60","Brachytherapy",2023-04-21,9
+"61","Brachytherapy",2023-04-28,21
+"62","Brachytherapy",2023-05-05,21
+"63","Brachytherapy",2023-05-12,15
+"64","Brachytherapy",2023-05-19,14
+"65","Brachytherapy",2023-05-26,14
+"66","Brachytherapy",2023-06-02,7
+"67","Brachytherapy",2023-06-09,9
+"68","Brachytherapy",2023-06-16,9
+"69","Brachytherapy",2023-06-23,7
+"70","Brachytherapy",2023-06-30,0
+"71","Brachytherapy",2023-07-07,0
+"72","Brachytherapy",2023-07-14,1
+"73","Brachytherapy",2023-07-21,1
+"74","Brachytherapy",2023-07-28,0
+"75","Brachytherapy",2023-08-04,0
+"76","Brachytherapy",2023-08-11,7
+"77","Brachytherapy",2023-08-18,9
+"78","Brachytherapy",2023-08-25,3
+"79","Brachytherapy",2023-09-01,7
+"80","Brachytherapy",2023-09-08,1
+"81","Brachytherapy",2023-09-15,0
+"82","Brachytherapy",2023-09-22,0
+"83","Brachytherapy",2023-09-29,2
+"84","Brachytherapy",2023-10-06,4
+"85","Brachytherapy",2023-10-13,3
+"86","Brachytherapy",2023-10-20,17
+"87","Brachytherapy",2023-10-27,10
+"88","Brachytherapy",2023-11-03,5
+"89","Brachytherapy",2023-11-10,3
+"90","Brachytherapy",2023-11-17,4
+"91","Brachytherapy",2023-11-24,24
+"92","Brachytherapy",2023-12-01,25
+"93","Brachytherapy",2023-12-08,32
+"94","Brachytherapy",2023-12-15,31
+"95","Brachytherapy",2023-12-22,26
+"96","Brachytherapy",2023-12-29,19
+"97","Breast Oncosurgery, benign",2022-03-04,70
+"98","Breast Oncosurgery, benign",2022-03-11,66
+"99","Breast Oncosurgery, benign",2022-03-18,63
+"100","Breast Oncosurgery, benign",2022-03-25,60
+"101","Breast Oncosurgery, benign",2022-04-01,56
+"102","Breast Oncosurgery, benign",2022-04-08,60
+"103","Breast Oncosurgery, benign",2022-04-15,53
+"104","Breast Oncosurgery, benign",2022-04-22,59
+"105","Breast Oncosurgery, benign",2022-04-29,65
+"106","Breast Oncosurgery, benign",2022-05-06,58
+"107","Breast Oncosurgery, benign",2022-05-13,55
+"108","Breast Oncosurgery, benign",2022-05-20,52
+"109","Breast Oncosurgery, benign",2022-05-27,49
+"110","Breast Oncosurgery, benign",2022-06-03,52
+"111","Breast Oncosurgery, benign",2022-06-10,52
+"112","Breast Oncosurgery, benign",2022-06-17,52
+"113","Breast Oncosurgery, benign",2022-06-24,59
+"114","Breast Oncosurgery, benign",2022-07-01,32
+"115","Breast Oncosurgery, benign",2022-07-08,44
+"116","Breast Oncosurgery, benign",2022-07-15,44
+"117","Breast Oncosurgery, benign",2022-07-22,45
+"118","Breast Oncosurgery, benign",2022-07-29,45
+"119","Breast Oncosurgery, benign",2022-08-05,45
+"120","Breast Oncosurgery, benign",2022-08-12,45
+"121","Breast Oncosurgery, benign",2022-08-19,28
+"122","Breast Oncosurgery, benign",2022-08-26,45
+"123","Breast Oncosurgery, benign",2022-09-02,45
+"124","Breast Oncosurgery, benign",2022-09-09,38
+"125","Breast Oncosurgery, benign",2022-09-16,45
+"126","Breast Oncosurgery, benign",2022-09-23,43
+"127","Breast Oncosurgery, benign",2022-09-30,38
+"128","Breast Oncosurgery, benign",2022-10-07,39
+"129","Breast Oncosurgery, benign",2022-10-14,32
+"130","Breast Oncosurgery, benign",2022-10-21,37
+"131","Breast Oncosurgery, benign",2022-10-28,44
+"132","Breast Oncosurgery, benign",2022-11-04,43
+"133","Breast Oncosurgery, benign",2022-11-11,38
+"134","Breast Oncosurgery, benign",2022-11-18,31
+"135","Breast Oncosurgery, benign",2022-11-25,56
+"136","Breast Oncosurgery, benign",2022-12-02,49
+"137","Breast Oncosurgery, benign",2022-12-09,35
+"138","Breast Oncosurgery, benign",2022-12-16,28
+"139","Breast Oncosurgery, benign",2022-12-23,21
+"140","Breast Oncosurgery, benign",2022-12-30,12
+"141","Breast Oncosurgery, benign",2023-01-06,57
+"142","Breast Oncosurgery, benign",2023-01-13,49
+"143","Breast Oncosurgery, benign",2023-01-20,50
+"144","Breast Oncosurgery, benign",2023-01-27,43
+"145","Breast Oncosurgery, benign",2023-02-03,36
+"146","Breast Oncosurgery, benign",2023-02-10,29
+"147","Breast Oncosurgery, benign",2023-02-17,24
+"148","Breast Oncosurgery, benign",2023-02-24,17
+"149","Breast Oncosurgery, benign",2023-03-03,46
+"150","Breast Oncosurgery, benign",2023-03-10,39
+"151","Breast Oncosurgery, benign",2023-03-17,32
+"152","Breast Oncosurgery, benign",2023-03-24,49
+"153","Breast Oncosurgery, benign",2023-03-31,53
+"154","Breast Oncosurgery, benign",2023-04-07,52
+"155","Breast Oncosurgery, benign",2023-04-14,52
+"156","Breast Oncosurgery, benign",2023-04-21,45
+"157","Breast Oncosurgery, benign",2023-04-28,45
+"158","Breast Oncosurgery, benign",2023-05-05,46
+"159","Breast Oncosurgery, benign",2023-05-12,46
+"160","Breast Oncosurgery, benign",2023-05-19,57
+"161","Breast Oncosurgery, benign",2023-05-26,54
+"162","Breast Oncosurgery, benign",2023-06-02,64
+"163","Breast Oncosurgery, benign",2023-06-09,52
+"164","Breast Oncosurgery, benign",2023-06-16,66
+"165","Breast Oncosurgery, benign",2023-06-23,57
+"166","Breast Oncosurgery, benign",2023-06-30,38
+"167","Breast Oncosurgery, benign",2023-07-07,66
+"168","Breast Oncosurgery, benign",2023-07-14,50
+"169","Breast Oncosurgery, benign",2023-07-21,43
+"170","Breast Oncosurgery, benign",2023-07-28,45
+"171","Breast Oncosurgery, benign",2023-08-04,64
+"172","Breast Oncosurgery, benign",2023-08-11,59
+"173","Breast Oncosurgery, benign",2023-08-18,60
+"174","Breast Oncosurgery, benign",2023-08-25,59
+"175","Breast Oncosurgery, benign",2023-09-01,52
+"176","Breast Oncosurgery, benign",2023-09-08,49
+"177","Breast Oncosurgery, benign",2023-09-15,53
+"178","Breast Oncosurgery, benign",2023-09-22,45
+"179","Breast Oncosurgery, benign",2023-09-29,46
+"180","Breast Oncosurgery, benign",2023-10-06,46
+"181","Breast Oncosurgery, benign",2023-10-13,48
+"182","Breast Oncosurgery, benign",2023-10-20,48
+"183","Breast Oncosurgery, benign",2023-10-27,41
+"184","Breast Oncosurgery, benign",2023-11-03,41
+"185","Breast Oncosurgery, benign",2023-11-10,41
+"186","Breast Oncosurgery, benign",2023-11-17,39
+"187","Breast Oncosurgery, benign",2023-11-24,42
+"188","Breast Oncosurgery, benign",2023-12-01,52
+"189","Breast Oncosurgery, benign",2023-12-08,48
+"190","Breast Oncosurgery, benign",2023-12-15,48
+"191","Breast Oncosurgery, benign",2023-12-22,55
+"192","Breast Oncosurgery, benign",2023-12-29,46
+"193","Breast Oncosurgery, primary malignant",2022-03-04,70
+"194","Breast Oncosurgery, primary malignant",2022-03-11,66
+"195","Breast Oncosurgery, primary malignant",2022-03-18,63
+"196","Breast Oncosurgery, primary malignant",2022-03-25,60
+"197","Breast Oncosurgery, primary malignant",2022-04-01,56
+"198","Breast Oncosurgery, primary malignant",2022-04-08,60
+"199","Breast Oncosurgery, primary malignant",2022-04-15,19
+"200","Breast Oncosurgery, primary malignant",2022-04-22,42
+"201","Breast Oncosurgery, primary malignant",2022-04-29,51
+"202","Breast Oncosurgery, primary malignant",2022-05-06,44
+"203","Breast Oncosurgery, primary malignant",2022-05-13,43
+"204","Breast Oncosurgery, primary malignant",2022-05-20,42
+"205","Breast Oncosurgery, primary malignant",2022-05-27,35
+"206","Breast Oncosurgery, primary malignant",2022-06-03,35
+"207","Breast Oncosurgery, primary malignant",2022-06-10,35
+"208","Breast Oncosurgery, primary malignant",2022-06-17,35
+"209","Breast Oncosurgery, primary malignant",2022-06-24,42
+"210","Breast Oncosurgery, primary malignant",2022-07-01,38
+"211","Breast Oncosurgery, primary malignant",2022-07-08,31
+"212","Breast Oncosurgery, primary malignant",2022-07-15,30
+"213","Breast Oncosurgery, primary malignant",2022-07-22,28
+"214","Breast Oncosurgery, primary malignant",2022-07-29,28
+"215","Breast Oncosurgery, primary malignant",2022-08-05,28
+"216","Breast Oncosurgery, primary malignant",2022-08-12,28
+"217","Breast Oncosurgery, primary malignant",2022-08-19,17
+"218","Breast Oncosurgery, primary malignant",2022-08-26,23
+"219","Breast Oncosurgery, primary malignant",2022-09-02,28
+"220","Breast Oncosurgery, primary malignant",2022-09-09,21
+"221","Breast Oncosurgery, primary malignant",2022-09-16,37
+"222","Breast Oncosurgery, primary malignant",2022-09-23,37
+"223","Breast Oncosurgery, primary malignant",2022-09-30,35
+"224","Breast Oncosurgery, primary malignant",2022-10-07,36
+"225","Breast Oncosurgery, primary malignant",2022-10-14,22
+"226","Breast Oncosurgery, primary malignant",2022-10-21,22
+"227","Breast Oncosurgery, primary malignant",2022-10-28,22
+"228","Breast Oncosurgery, primary malignant",2022-11-04,22
+"229","Breast Oncosurgery, primary malignant",2022-11-11,22
+"230","Breast Oncosurgery, primary malignant",2022-11-18,22
+"231","Breast Oncosurgery, primary malignant",2022-11-25,29
+"232","Breast Oncosurgery, primary malignant",2022-12-02,30
+"233","Breast Oncosurgery, primary malignant",2022-12-09,24
+"234","Breast Oncosurgery, primary malignant",2022-12-16,17
+"235","Breast Oncosurgery, primary malignant",2022-12-23,14
+"236","Breast Oncosurgery, primary malignant",2022-12-30,36
+"237","Breast Oncosurgery, primary malignant",2023-01-06,39
+"238","Breast Oncosurgery, primary malignant",2023-01-13,38
+"239","Breast Oncosurgery, primary malignant",2023-01-20,38
+"240","Breast Oncosurgery, primary malignant",2023-01-27,37
+"241","Breast Oncosurgery, primary malignant",2023-02-03,28
+"242","Breast Oncosurgery, primary malignant",2023-02-10,4
+"243","Breast Oncosurgery, primary malignant",2023-02-17,14
+"244","Breast Oncosurgery, primary malignant",2023-02-24,24
+"245","Breast Oncosurgery, primary malignant",2023-03-03,30
+"246","Breast Oncosurgery, primary malignant",2023-03-10,29
+"247","Breast Oncosurgery, primary malignant",2023-03-17,24
+"248","Breast Oncosurgery, primary malignant",2023-03-24,35
+"249","Breast Oncosurgery, primary malignant",2023-03-31,39
+"250","Breast Oncosurgery, primary malignant",2023-04-07,42
+"251","Breast Oncosurgery, primary malignant",2023-04-14,42
+"252","Breast Oncosurgery, primary malignant",2023-04-21,39
+"253","Breast Oncosurgery, primary malignant",2023-04-28,39
+"254","Breast Oncosurgery, primary malignant",2023-05-05,38
+"255","Breast Oncosurgery, primary malignant",2023-05-12,43
+"256","Breast Oncosurgery, primary malignant",2023-05-19,43
+"257","Breast Oncosurgery, primary malignant",2023-05-26,37
+"258","Breast Oncosurgery, primary malignant",2023-06-02,42
+"259","Breast Oncosurgery, primary malignant",2023-06-09,35
+"260","Breast Oncosurgery, primary malignant",2023-06-16,35
+"261","Breast Oncosurgery, primary malignant",2023-06-23,42
+"262","Breast Oncosurgery, primary malignant",2023-06-30,14
+"263","Breast Oncosurgery, primary malignant",2023-07-07,32
+"264","Breast Oncosurgery, primary malignant",2023-07-14,35
+"265","Breast Oncosurgery, primary malignant",2023-07-21,22
+"266","Breast Oncosurgery, primary malignant",2023-07-28,23
+"267","Breast Oncosurgery, primary malignant",2023-08-04,44
+"268","Breast Oncosurgery, primary malignant",2023-08-11,39
+"269","Breast Oncosurgery, primary malignant",2023-08-18,42
+"270","Breast Oncosurgery, primary malignant",2023-08-25,39
+"271","Breast Oncosurgery, primary malignant",2023-09-01,35
+"272","Breast Oncosurgery, primary malignant",2023-09-08,37
+"273","Breast Oncosurgery, primary malignant",2023-09-15,42
+"274","Breast Oncosurgery, primary malignant",2023-09-22,36
+"275","Breast Oncosurgery, primary malignant",2023-09-29,22
+"276","Breast Oncosurgery, primary malignant",2023-10-06,7
+"277","Breast Oncosurgery, primary malignant",2023-10-13,7
+"278","Breast Oncosurgery, primary malignant",2023-10-20,39
+"279","Breast Oncosurgery, primary malignant",2023-10-27,32
+"280","Breast Oncosurgery, primary malignant",2023-11-03,32
+"281","Breast Oncosurgery, primary malignant",2023-11-10,31
+"282","Breast Oncosurgery, primary malignant",2023-11-17,33
+"283","Breast Oncosurgery, primary malignant",2023-11-24,34
+"284","Breast Oncosurgery, primary malignant",2023-12-01,35
+"285","Breast Oncosurgery, primary malignant",2023-12-08,39
+"286","Breast Oncosurgery, primary malignant",2023-12-15,39
+"287","Breast Oncosurgery, primary malignant",2023-12-22,39
+"288","Breast Oncosurgery, primary malignant",2023-12-29,39
+"289","Breast Oncosurgery, secondary malignant",2022-03-04,29
+"290","Breast Oncosurgery, secondary malignant",2022-03-11,29
+"291","Breast Oncosurgery, secondary malignant",2022-03-18,29
+"292","Breast Oncosurgery, secondary malignant",2022-03-25,29
+"293","Breast Oncosurgery, secondary malignant",2022-04-01,29
+"294","Breast Oncosurgery, secondary malignant",2022-04-08,29
+"295","Breast Oncosurgery, secondary malignant",2022-04-15,29
+"296","Breast Oncosurgery, secondary malignant",2022-04-22,29
+"297","Breast Oncosurgery, secondary malignant",2022-04-29,29
+"298","Breast Oncosurgery, secondary malignant",2022-05-06,29
+"299","Breast Oncosurgery, secondary malignant",2022-05-13,29
+"300","Breast Oncosurgery, secondary malignant",2022-05-20,29
+"301","Breast Oncosurgery, secondary malignant",2022-05-27,29
+"302","Breast Oncosurgery, secondary malignant",2022-06-03,29
+"303","Breast Oncosurgery, secondary malignant",2022-06-10,29
+"304","Breast Oncosurgery, secondary malignant",2022-06-17,29
+"305","Breast Oncosurgery, secondary malignant",2022-06-24,29
+"306","Breast Oncosurgery, secondary malignant",2022-07-01,29
+"307","Breast Oncosurgery, secondary malignant",2022-07-08,29
+"308","Breast Oncosurgery, secondary malignant",2022-07-15,29
+"309","Breast Oncosurgery, secondary malignant",2022-07-22,29
+"310","Breast Oncosurgery, secondary malignant",2022-07-29,29
+"311","Breast Oncosurgery, secondary malignant",2022-08-05,29
+"312","Breast Oncosurgery, secondary malignant",2022-08-12,29
+"313","Breast Oncosurgery, secondary malignant",2022-08-19,29
+"314","Breast Oncosurgery, secondary malignant",2022-08-26,29
+"315","Breast Oncosurgery, secondary malignant",2022-09-02,29
+"316","Breast Oncosurgery, secondary malignant",2022-09-09,29
+"317","Breast Oncosurgery, secondary malignant",2022-09-16,29
+"318","Breast Oncosurgery, secondary malignant",2022-09-23,29
+"319","Breast Oncosurgery, secondary malignant",2022-09-30,29
+"320","Breast Oncosurgery, secondary malignant",2022-10-07,29
+"321","Breast Oncosurgery, secondary malignant",2022-10-14,29
+"322","Breast Oncosurgery, secondary malignant",2022-10-21,32
+"323","Breast Oncosurgery, secondary malignant",2022-10-28,42
+"324","Breast Oncosurgery, secondary malignant",2022-11-04,36
+"325","Breast Oncosurgery, secondary malignant",2022-11-11,36
+"326","Breast Oncosurgery, secondary malignant",2022-11-18,31
+"327","Breast Oncosurgery, secondary malignant",2022-11-25,35
+"328","Breast Oncosurgery, secondary malignant",2022-12-02,31
+"329","Breast Oncosurgery, secondary malignant",2022-12-09,30
+"330","Breast Oncosurgery, secondary malignant",2022-12-16,31
+"331","Breast Oncosurgery, secondary malignant",2022-12-23,30
+"332","Breast Oncosurgery, secondary malignant",2022-12-30,37
+"333","Breast Oncosurgery, secondary malignant",2023-01-06,39
+"334","Breast Oncosurgery, secondary malignant",2023-01-13,40
+"335","Breast Oncosurgery, secondary malignant",2023-01-20,42
+"336","Breast Oncosurgery, secondary malignant",2023-01-27,49
+"337","Breast Oncosurgery, secondary malignant",2023-02-03,39
+"338","Breast Oncosurgery, secondary malignant",2023-02-10,24
+"339","Breast Oncosurgery, secondary malignant",2023-02-17,37
+"340","Breast Oncosurgery, secondary malignant",2023-02-24,30
+"341","Breast Oncosurgery, secondary malignant",2023-03-03,42
+"342","Breast Oncosurgery, secondary malignant",2023-03-10,35
+"343","Breast Oncosurgery, secondary malignant",2023-03-17,29
+"344","Breast Oncosurgery, secondary malignant",2023-03-24,38
+"345","Breast Oncosurgery, secondary malignant",2023-03-31,49
+"346","Breast Oncosurgery, secondary malignant",2023-04-07,45
+"347","Breast Oncosurgery, secondary malignant",2023-04-14,45
+"348","Breast Oncosurgery, secondary malignant",2023-04-21,45
+"349","Breast Oncosurgery, secondary malignant",2023-04-28,42
+"350","Breast Oncosurgery, secondary malignant",2023-05-05,44
+"351","Breast Oncosurgery, secondary malignant",2023-05-12,46
+"352","Breast Oncosurgery, secondary malignant",2023-05-19,49
+"353","Breast Oncosurgery, secondary malignant",2023-05-26,43
+"354","Breast Oncosurgery, secondary malignant",2023-06-02,42
+"355","Breast Oncosurgery, secondary malignant",2023-06-09,42
+"356","Breast Oncosurgery, secondary malignant",2023-06-16,42
+"357","Breast Oncosurgery, secondary malignant",2023-06-23,45
+"358","Breast Oncosurgery, secondary malignant",2023-06-30,70
+"359","Breast Oncosurgery, secondary malignant",2023-07-07,49
+"360","Breast Oncosurgery, secondary malignant",2023-07-14,38
+"361","Breast Oncosurgery, secondary malignant",2023-07-21,31
+"362","Breast Oncosurgery, secondary malignant",2023-07-28,35
+"363","Breast Oncosurgery, secondary malignant",2023-08-04,44
+"364","Breast Oncosurgery, secondary malignant",2023-08-11,44
+"365","Breast Oncosurgery, secondary malignant",2023-08-18,46
+"366","Breast Oncosurgery, secondary malignant",2023-08-25,42
+"367","Breast Oncosurgery, secondary malignant",2023-09-01,36
+"368","Breast Oncosurgery, secondary malignant",2023-09-08,49
+"369","Breast Oncosurgery, secondary malignant",2023-09-15,50
+"370","Breast Oncosurgery, secondary malignant",2023-09-22,42
+"371","Breast Oncosurgery, secondary malignant",2023-09-29,44
+"372","Breast Oncosurgery, secondary malignant",2023-10-06,45
+"373","Breast Oncosurgery, secondary malignant",2023-10-13,42
+"374","Breast Oncosurgery, secondary malignant",2023-10-20,41
+"375","Breast Oncosurgery, secondary malignant",2023-10-27,35
+"376","Breast Oncosurgery, secondary malignant",2023-11-03,39
+"377","Breast Oncosurgery, secondary malignant",2023-11-10,34
+"378","Breast Oncosurgery, secondary malignant",2023-11-17,5
+"379","Breast Oncosurgery, secondary malignant",2023-11-24,40
+"380","Breast Oncosurgery, secondary malignant",2023-12-01,39
+"381","Breast Oncosurgery, secondary malignant",2023-12-08,41
+"382","Breast Oncosurgery, secondary malignant",2023-12-15,45
+"383","Breast Oncosurgery, secondary malignant",2023-12-22,45
+"384","Breast Oncosurgery, secondary malignant",2023-12-29,42
+"385","Bronchoscopy",2022-03-04,1
+"386","Bronchoscopy",2022-03-11,1
+"387","Bronchoscopy",2022-03-18,1
+"388","Bronchoscopy",2022-03-25,1
+"389","Bronchoscopy",2022-04-01,1
+"390","Bronchoscopy",2022-04-08,1
+"391","Bronchoscopy",2022-04-15,1
+"392","Bronchoscopy",2022-04-22,1
+"393","Bronchoscopy",2022-04-29,1
+"394","Bronchoscopy",2022-05-06,1
+"395","Bronchoscopy",2022-05-13,1
+"396","Bronchoscopy",2022-05-20,1
+"397","Bronchoscopy",2022-05-27,1
+"398","Bronchoscopy",2022-06-03,1
+"399","Bronchoscopy",2022-06-10,1
+"400","Bronchoscopy",2022-06-17,1
+"401","Bronchoscopy",2022-06-24,1
+"402","Bronchoscopy",2022-07-01,1
+"403","Bronchoscopy",2022-07-08,1
+"404","Bronchoscopy",2022-07-15,1
+"405","Bronchoscopy",2022-07-22,1
+"406","Bronchoscopy",2022-07-29,1
+"407","Bronchoscopy",2022-08-05,1
+"408","Bronchoscopy",2022-08-12,1
+"409","Bronchoscopy",2022-08-19,1
+"410","Bronchoscopy",2022-08-26,1
+"411","Bronchoscopy",2022-09-02,1
+"412","Bronchoscopy",2022-09-09,1
+"413","Bronchoscopy",2022-09-16,1
+"414","Bronchoscopy",2022-09-23,1
+"415","Bronchoscopy",2022-09-30,1
+"416","Bronchoscopy",2022-10-07,1
+"417","Bronchoscopy",2022-10-14,1
+"418","Bronchoscopy",2022-10-21,1
+"419","Bronchoscopy",2022-10-28,1
+"420","Bronchoscopy",2022-11-04,1
+"421","Bronchoscopy",2022-11-11,1
+"422","Bronchoscopy",2022-11-18,1
+"423","Bronchoscopy",2022-11-25,1
+"424","Bronchoscopy",2022-12-02,1
+"425","Bronchoscopy",2022-12-09,1
+"426","Bronchoscopy",2022-12-16,1
+"427","Bronchoscopy",2022-12-23,1
+"428","Bronchoscopy",2022-12-30,1
+"429","Bronchoscopy",2023-01-06,1
+"430","Bronchoscopy",2023-01-13,1
+"431","Bronchoscopy",2023-01-20,1
+"432","Bronchoscopy",2023-01-27,1
+"433","Bronchoscopy",2023-02-03,1
+"434","Bronchoscopy",2023-02-10,1
+"435","Bronchoscopy",2023-02-17,1
+"436","Bronchoscopy",2023-02-24,1
+"437","Bronchoscopy",2023-03-03,1
+"438","Bronchoscopy",2023-03-10,1
+"439","Bronchoscopy",2023-03-17,8
+"440","Bronchoscopy",2023-03-24,1
+"441","Bronchoscopy",2023-03-31,3
+"442","Bronchoscopy",2023-04-07,0
+"443","Bronchoscopy",2023-04-14,1
+"444","Bronchoscopy",2023-04-21,8
+"445","Bronchoscopy",2023-04-28,8
+"446","Bronchoscopy",2023-05-05,10
+"447","Bronchoscopy",2023-05-12,10
+"448","Bronchoscopy",2023-05-19,8
+"449","Bronchoscopy",2023-05-26,1
+"450","Bronchoscopy",2023-06-02,3
+"451","Bronchoscopy",2023-06-09,1
+"452","Bronchoscopy",2023-06-16,3
+"453","Bronchoscopy",2023-06-23,2
+"454","Bronchoscopy",2023-06-30,3
+"455","Bronchoscopy",2023-07-07,1
+"456","Bronchoscopy",2023-07-14,3
+"457","Bronchoscopy",2023-07-21,3
+"458","Bronchoscopy",2023-07-28,0
+"459","Bronchoscopy",2023-08-04,3
+"460","Bronchoscopy",2023-08-11,3
+"461","Bronchoscopy",2023-08-18,7
+"462","Bronchoscopy",2023-08-25,3
+"463","Bronchoscopy",2023-09-01,7
+"464","Bronchoscopy",2023-09-08,1
+"465","Bronchoscopy",2023-09-15,7
+"466","Bronchoscopy",2023-09-22,8
+"467","Bronchoscopy",2023-09-29,6
+"468","Bronchoscopy",2023-10-06,4
+"469","Bronchoscopy",2023-10-13,3
+"470","Bronchoscopy",2023-10-20,10
+"471","Bronchoscopy",2023-10-27,4
+"472","Bronchoscopy",2023-11-03,4
+"473","Bronchoscopy",2023-11-10,4
+"474","Bronchoscopy",2023-11-17,11
+"475","Bronchoscopy",2023-11-24,4
+"476","Bronchoscopy",2023-12-01,4
+"477","Bronchoscopy",2023-12-08,4
+"478","Bronchoscopy",2023-12-15,6
+"479","Bronchoscopy",2023-12-22,13
+"480","Bronchoscopy",2023-12-29,18
+"481","Day hospital",2022-03-04,0
+"482","Day hospital",2022-03-11,5
+"483","Day hospital",2022-03-18,10
+"484","Day hospital",2022-03-25,16
+"485","Day hospital",2022-04-01,21
+"486","Day hospital",2022-04-08,17
+"487","Day hospital",2022-04-15,17
+"488","Day hospital",2022-04-22,17
+"489","Day hospital",2022-04-29,20
+"490","Day hospital",2022-05-06,22
+"491","Day hospital",2022-05-13,19
+"492","Day hospital",2022-05-20,16
+"493","Day hospital",2022-05-27,16
+"494","Day hospital",2022-06-03,14
+"495","Day hospital",2022-06-10,14
+"496","Day hospital",2022-06-17,14
+"497","Day hospital",2022-06-24,10
+"498","Day hospital",2022-07-01,14
+"499","Day hospital",2022-07-08,15
+"500","Day hospital",2022-07-15,19
+"501","Day hospital",2022-07-22,23
+"502","Day hospital",2022-07-29,23
+"503","Day hospital",2022-08-05,21
+"504","Day hospital",2022-08-12,0
+"505","Day hospital",2022-08-19,0
+"506","Day hospital",2022-08-26,0
+"507","Day hospital",2022-09-02,0
+"508","Day hospital",2022-09-09,0
+"509","Day hospital",2022-09-16,0
+"510","Day hospital",2022-09-23,14
+"511","Day hospital",2022-09-30,9
+"512","Day hospital",2022-10-07,9
+"513","Day hospital",2022-10-14,9
+"514","Day hospital",2022-10-21,10
+"515","Day hospital",2022-10-28,11
+"516","Day hospital",2022-11-04,14
+"517","Day hospital",2022-11-11,19
+"518","Day hospital",2022-11-18,9
+"519","Day hospital",2022-11-25,10
+"520","Day hospital",2022-12-02,9
+"521","Day hospital",2022-12-09,7
+"522","Day hospital",2022-12-16,7
+"523","Day hospital",2022-12-23,16
+"524","Day hospital",2022-12-30,17
+"525","Day hospital",2023-01-06,15
+"526","Day hospital",2023-01-13,11
+"527","Day hospital",2023-01-20,11
+"528","Day hospital",2023-01-27,10
+"529","Day hospital",2023-02-03,10
+"530","Day hospital",2023-02-10,14
+"531","Day hospital",2023-02-17,9
+"532","Day hospital",2023-02-24,9
+"533","Day hospital",2023-03-03,10
+"534","Day hospital",2023-03-10,21
+"535","Day hospital",2023-03-17,21
+"536","Day hospital",2023-03-24,18
+"537","Day hospital",2023-03-31,22
+"538","Day hospital",2023-04-07,22
+"539","Day hospital",2023-04-14,15
+"540","Day hospital",2023-04-21,9
+"541","Day hospital",2023-04-28,8
+"542","Day hospital",2023-05-05,9
+"543","Day hospital",2023-05-12,16
+"544","Day hospital",2023-05-19,21
+"545","Day hospital",2023-05-26,18
+"546","Day hospital",2023-06-02,18
+"547","Day hospital",2023-06-09,11
+"548","Day hospital",2023-06-16,10
+"549","Day hospital",2023-06-23,8
+"550","Day hospital",2023-06-30,9
+"551","Day hospital",2023-07-07,9
+"552","Day hospital",2023-07-14,10
+"553","Day hospital",2023-07-21,17
+"554","Day hospital",2023-07-28,18
+"555","Day hospital",2023-08-04,17
+"556","Day hospital",2023-08-11,17
+"557","Day hospital",2023-08-18,11
+"558","Day hospital",2023-08-25,9
+"559","Day hospital",2023-09-01,10
+"560","Day hospital",2023-09-08,3
+"561","Day hospital",2023-09-15,8
+"562","Day hospital",2023-09-22,4
+"563","Day hospital",2023-09-29,5
+"564","Day hospital",2023-10-06,6
+"565","Day hospital",2023-10-13,13
+"566","Day hospital",2023-10-20,11
+"567","Day hospital",2023-10-27,6
+"568","Day hospital",2023-11-03,7
+"569","Day hospital",2023-11-10,18
+"570","Day hospital",2023-11-17,20
+"571","Day hospital",2023-11-24,26
+"572","Day hospital",2023-12-01,19
+"573","Day hospital",2023-12-08,18
+"574","Day hospital",2023-12-15,11
+"575","Day hospital",2023-12-22,20
+"576","Day hospital",2023-12-29,21
+"577","Dermato-Oncology",2022-03-04,17
+"578","Dermato-Oncology",2022-03-11,14
+"579","Dermato-Oncology",2022-03-18,12
+"580","Dermato-Oncology",2022-03-25,10
+"581","Dermato-Oncology",2022-04-01,7
+"582","Dermato-Oncology",2022-04-08,14
+"583","Dermato-Oncology",2022-04-15,15
+"584","Dermato-Oncology",2022-04-22,8
+"585","Dermato-Oncology",2022-04-29,7
+"586","Dermato-Oncology",2022-05-06,7
+"587","Dermato-Oncology",2022-05-13,4
+"588","Dermato-Oncology",2022-05-20,0
+"589","Dermato-Oncology",2022-05-27,0
+"590","Dermato-Oncology",2022-06-03,7
+"591","Dermato-Oncology",2022-06-10,4
+"592","Dermato-Oncology",2022-06-17,1
+"593","Dermato-Oncology",2022-06-24,7
+"594","Dermato-Oncology",2022-07-01,2
+"595","Dermato-Oncology",2022-07-08,7
+"596","Dermato-Oncology",2022-07-15,8
+"597","Dermato-Oncology",2022-07-22,8
+"598","Dermato-Oncology",2022-07-29,7
+"599","Dermato-Oncology",2022-08-05,10
+"600","Dermato-Oncology",2022-08-12,8
+"601","Dermato-Oncology",2022-08-19,9
+"602","Dermato-Oncology",2022-08-26,9
+"603","Dermato-Oncology",2022-09-02,10
+"604","Dermato-Oncology",2022-09-09,8
+"605","Dermato-Oncology",2022-09-16,6
+"606","Dermato-Oncology",2022-09-23,3
+"607","Dermato-Oncology",2022-09-30,1
+"608","Dermato-Oncology",2022-10-07,14
+"609","Dermato-Oncology",2022-10-14,3
+"610","Dermato-Oncology",2022-10-21,8
+"611","Dermato-Oncology",2022-10-28,1
+"612","Dermato-Oncology",2022-11-04,1
+"613","Dermato-Oncology",2022-11-11,1
+"614","Dermato-Oncology",2022-11-18,1
+"615","Dermato-Oncology",2022-11-25,21
+"616","Dermato-Oncology",2022-12-02,22
+"617","Dermato-Oncology",2022-12-09,14
+"618","Dermato-Oncology",2022-12-16,7
+"619","Dermato-Oncology",2022-12-23,15
+"620","Dermato-Oncology",2022-12-30,2
+"621","Dermato-Oncology",2023-01-06,2
+"622","Dermato-Oncology",2023-01-13,7
+"623","Dermato-Oncology",2023-01-20,1
+"624","Dermato-Oncology",2023-01-27,7
+"625","Dermato-Oncology",2023-02-03,9
+"626","Dermato-Oncology",2023-02-10,14
+"627","Dermato-Oncology",2023-02-17,3
+"628","Dermato-Oncology",2023-02-24,9
+"629","Dermato-Oncology",2023-03-03,7
+"630","Dermato-Oncology",2023-03-10,6
+"631","Dermato-Oncology",2023-03-17,2
+"632","Dermato-Oncology",2023-03-24,6
+"633","Dermato-Oncology",2023-03-31,5
+"634","Dermato-Oncology",2023-04-07,9
+"635","Dermato-Oncology",2023-04-14,4
+"636","Dermato-Oncology",2023-04-21,15
+"637","Dermato-Oncology",2023-04-28,16
+"638","Dermato-Oncology",2023-05-05,15
+"639","Dermato-Oncology",2023-05-12,3
+"640","Dermato-Oncology",2023-05-19,1
+"641","Dermato-Oncology",2023-05-26,0
+"642","Dermato-Oncology",2023-06-02,0
+"643","Dermato-Oncology",2023-06-09,2
+"644","Dermato-Oncology",2023-06-16,0
+"645","Dermato-Oncology",2023-06-23,1
+"646","Dermato-Oncology",2023-06-30,1
+"647","Dermato-Oncology",2023-07-07,14
+"648","Dermato-Oncology",2023-07-14,17
+"649","Dermato-Oncology",2023-07-21,14
+"650","Dermato-Oncology",2023-07-28,1
+"651","Dermato-Oncology",2023-08-04,0
+"652","Dermato-Oncology",2023-08-11,0
+"653","Dermato-Oncology",2023-08-18,1
+"654","Dermato-Oncology",2023-08-25,1
+"655","Dermato-Oncology",2023-09-01,10
+"656","Dermato-Oncology",2023-09-08,3
+"657","Dermato-Oncology",2023-09-15,21
+"658","Dermato-Oncology",2023-09-22,2
+"659","Dermato-Oncology",2023-09-29,6
+"660","Dermato-Oncology",2023-10-06,10
+"661","Dermato-Oncology",2023-10-13,13
+"662","Dermato-Oncology",2023-10-20,17
+"663","Dermato-Oncology",2023-10-27,11
+"664","Dermato-Oncology",2023-11-03,12
+"665","Dermato-Oncology",2023-11-10,17
+"666","Dermato-Oncology",2023-11-17,5
+"667","Dermato-Oncology",2023-11-24,10
+"668","Dermato-Oncology",2023-12-01,10
+"669","Dermato-Oncology",2023-12-08,12
+"670","Dermato-Oncology",2023-12-15,13
+"671","Dermato-Oncology",2023-12-22,11
+"672","Dermato-Oncology",2023-12-29,14
+"673","Gastroenterology",2022-03-04,0
+"674","Gastroenterology",2022-03-11,0
+"675","Gastroenterology",2022-03-18,0
+"676","Gastroenterology",2022-03-25,0
+"677","Gastroenterology",2022-04-01,0
+"678","Gastroenterology",2022-04-08,0
+"679","Gastroenterology",2022-04-15,0
+"680","Gastroenterology",2022-04-22,0
+"681","Gastroenterology",2022-04-29,0
+"682","Gastroenterology",2022-05-06,0
+"683","Gastroenterology",2022-05-13,0
+"684","Gastroenterology",2022-05-20,0
+"685","Gastroenterology",2022-05-27,0
+"686","Gastroenterology",2022-06-03,0
+"687","Gastroenterology",2022-06-10,0
+"688","Gastroenterology",2022-06-17,0
+"689","Gastroenterology",2022-06-24,0
+"690","Gastroenterology",2022-07-01,0
+"691","Gastroenterology",2022-07-08,7
+"692","Gastroenterology",2022-07-15,4
+"693","Gastroenterology",2022-07-22,0
+"694","Gastroenterology",2022-07-29,0
+"695","Gastroenterology",2022-08-05,0
+"696","Gastroenterology",2022-08-12,1
+"697","Gastroenterology",2022-08-19,0
+"698","Gastroenterology",2022-08-26,0
+"699","Gastroenterology",2022-09-02,0
+"700","Gastroenterology",2022-09-09,0
+"701","Gastroenterology",2022-09-16,0
+"702","Gastroenterology",2022-09-23,0
+"703","Gastroenterology",2022-09-30,0
+"704","Gastroenterology",2022-10-07,0
+"705","Gastroenterology",2022-10-14,0
+"706","Gastroenterology",2022-10-21,0
+"707","Gastroenterology",2022-10-28,0
+"708","Gastroenterology",2022-11-04,0
+"709","Gastroenterology",2022-11-11,0
+"710","Gastroenterology",2022-11-18,0
+"711","Gastroenterology",2022-11-25,0
+"712","Gastroenterology",2022-12-02,0
+"713","Gastroenterology",2022-12-09,0
+"714","Gastroenterology",2022-12-16,0
+"715","Gastroenterology",2022-12-23,0
+"716","Gastroenterology",2022-12-30,0
+"717","Gastroenterology",2023-01-06,0
+"718","Gastroenterology",2023-01-13,0
+"719","Gastroenterology",2023-01-20,0
+"720","Gastroenterology",2023-01-27,0
+"721","Gastroenterology",2023-02-03,0
+"722","Gastroenterology",2023-02-10,2
+"723","Gastroenterology",2023-02-17,7
+"724","Gastroenterology",2023-02-24,7
+"725","Gastroenterology",2023-03-03,1
+"726","Gastroenterology",2023-03-10,0
+"727","Gastroenterology",2023-03-17,7
+"728","Gastroenterology",2023-03-24,0
+"729","Gastroenterology",2023-03-31,0
+"730","Gastroenterology",2023-04-07,0
+"731","Gastroenterology",2023-04-14,0
+"732","Gastroenterology",2023-04-21,3
+"733","Gastroenterology",2023-04-28,2
+"734","Gastroenterology",2023-05-05,1
+"735","Gastroenterology",2023-05-12,3
+"736","Gastroenterology",2023-05-19,1
+"737","Gastroenterology",2023-05-26,0
+"738","Gastroenterology",2023-06-02,0
+"739","Gastroenterology",2023-06-09,0
+"740","Gastroenterology",2023-06-16,0
+"741","Gastroenterology",2023-06-23,0
+"742","Gastroenterology",2023-06-30,1
+"743","Gastroenterology",2023-07-07,3
+"744","Gastroenterology",2023-07-14,0
+"745","Gastroenterology",2023-07-21,0
+"746","Gastroenterology",2023-07-28,0
+"747","Gastroenterology",2023-08-04,0
+"748","Gastroenterology",2023-08-11,7
+"749","Gastroenterology",2023-08-18,0
+"750","Gastroenterology",2023-08-25,0
+"751","Gastroenterology",2023-09-01,0
+"752","Gastroenterology",2023-09-08,0
+"753","Gastroenterology",2023-09-15,0
+"754","Gastroenterology",2023-09-22,0
+"755","Gastroenterology",2023-09-29,2
+"756","Gastroenterology",2023-10-06,3
+"757","Gastroenterology",2023-10-13,3
+"758","Gastroenterology",2023-10-20,3
+"759","Gastroenterology",2023-10-27,3
+"760","Gastroenterology",2023-11-03,3
+"761","Gastroenterology",2023-11-10,3
+"762","Gastroenterology",2023-11-17,3
+"763","Gastroenterology",2023-11-24,3
+"764","Gastroenterology",2023-12-01,3
+"765","Gastroenterology",2023-12-08,3
+"766","Gastroenterology",2023-12-15,3
+"767","Gastroenterology",2023-12-22,4
+"768","Gastroenterology",2023-12-29,4
+"769","Gynecology",2022-03-04,20
+"770","Gynecology",2022-03-11,18
+"771","Gynecology",2022-03-18,16
+"772","Gynecology",2022-03-25,14
+"773","Gynecology",2022-04-01,12
+"774","Gynecology",2022-04-08,14
+"775","Gynecology",2022-04-15,8
+"776","Gynecology",2022-04-22,9
+"777","Gynecology",2022-04-29,9
+"778","Gynecology",2022-05-06,13
+"779","Gynecology",2022-05-13,15
+"780","Gynecology",2022-05-20,17
+"781","Gynecology",2022-05-27,59
+"782","Gynecology",2022-06-03,31
+"783","Gynecology",2022-06-10,20
+"784","Gynecology",2022-06-17,10
+"785","Gynecology",2022-06-24,14
+"786","Gynecology",2022-07-01,42
+"787","Gynecology",2022-07-08,10
+"788","Gynecology",2022-07-15,16
+"789","Gynecology",2022-07-22,21
+"790","Gynecology",2022-07-29,23
+"791","Gynecology",2022-08-05,21
+"792","Gynecology",2022-08-12,14
+"793","Gynecology",2022-08-19,7
+"794","Gynecology",2022-08-26,21
+"795","Gynecology",2022-09-02,21
+"796","Gynecology",2022-09-09,11
+"797","Gynecology",2022-09-16,11
+"798","Gynecology",2022-09-23,11
+"799","Gynecology",2022-09-30,4
+"800","Gynecology",2022-10-07,9
+"801","Gynecology",2022-10-14,3
+"802","Gynecology",2022-10-21,2
+"803","Gynecology",2022-10-28,11
+"804","Gynecology",2022-11-04,4
+"805","Gynecology",2022-11-11,14
+"806","Gynecology",2022-11-18,26
+"807","Gynecology",2022-11-25,19
+"808","Gynecology",2022-12-02,21
+"809","Gynecology",2022-12-09,14
+"810","Gynecology",2022-12-16,10
+"811","Gynecology",2022-12-23,21
+"812","Gynecology",2022-12-30,15
+"813","Gynecology",2023-01-06,9
+"814","Gynecology",2023-01-13,10
+"815","Gynecology",2023-01-20,9
+"816","Gynecology",2023-01-27,10
+"817","Gynecology",2023-02-03,7
+"818","Gynecology",2023-02-10,7
+"819","Gynecology",2023-02-17,7
+"820","Gynecology",2023-02-24,7
+"821","Gynecology",2023-03-03,4
+"822","Gynecology",2023-03-10,21
+"823","Gynecology",2023-03-17,21
+"824","Gynecology",2023-03-24,21
+"825","Gynecology",2023-03-31,5
+"826","Gynecology",2023-04-07,35
+"827","Gynecology",2023-04-14,35
+"828","Gynecology",2023-04-21,45
+"829","Gynecology",2023-04-28,42
+"830","Gynecology",2023-05-05,40
+"831","Gynecology",2023-05-12,35
+"832","Gynecology",2023-05-19,36
+"833","Gynecology",2023-05-26,36
+"834","Gynecology",2023-06-02,33
+"835","Gynecology",2023-06-09,25
+"836","Gynecology",2023-06-16,23
+"837","Gynecology",2023-06-23,23
+"838","Gynecology",2023-06-30,21
+"839","Gynecology",2023-07-07,25
+"840","Gynecology",2023-07-14,31
+"841","Gynecology",2023-07-21,24
+"842","Gynecology",2023-07-28,24
+"843","Gynecology",2023-08-04,21
+"844","Gynecology",2023-08-11,17
+"845","Gynecology",2023-08-18,25
+"846","Gynecology",2023-08-25,18
+"847","Gynecology",2023-09-01,14
+"848","Gynecology",2023-09-08,14
+"849","Gynecology",2023-09-15,23
+"850","Gynecology",2023-09-22,28
+"851","Gynecology",2023-09-29,22
+"852","Gynecology",2023-10-06,17
+"853","Gynecology",2023-10-13,21
+"854","Gynecology",2023-10-20,20
+"855","Gynecology",2023-10-27,24
+"856","Gynecology",2023-11-03,24
+"857","Gynecology",2023-11-10,26
+"858","Gynecology",2023-11-17,31
+"859","Gynecology",2023-11-24,32
+"860","Gynecology",2023-12-01,25
+"861","Gynecology",2023-12-08,18
+"862","Gynecology",2023-12-15,22
+"863","Gynecology",2023-12-22,18
+"864","Gynecology",2023-12-29,14
+"865","Head and Neck Tumours, benign",2022-03-04,74
+"866","Head and Neck Tumours, benign",2022-03-11,87
+"867","Head and Neck Tumours, benign",2022-03-18,100
+"868","Head and Neck Tumours, benign",2022-03-25,113
+"869","Head and Neck Tumours, benign",2022-04-01,126
+"870","Head and Neck Tumours, benign",2022-04-08,119
+"871","Head and Neck Tumours, benign",2022-04-15,0
+"872","Head and Neck Tumours, benign",2022-04-22,0
+"873","Head and Neck Tumours, benign",2022-04-29,113
+"874","Head and Neck Tumours, benign",2022-05-06,134
+"875","Head and Neck Tumours, benign",2022-05-13,67
+"876","Head and Neck Tumours, benign",2022-05-20,0
+"877","Head and Neck Tumours, benign",2022-05-27,0
+"878","Head and Neck Tumours, benign",2022-06-03,0
+"879","Head and Neck Tumours, benign",2022-06-10,0
+"880","Head and Neck Tumours, benign",2022-06-17,0
+"881","Head and Neck Tumours, benign",2022-06-24,0
+"882","Head and Neck Tumours, benign",2022-07-01,0
+"883","Head and Neck Tumours, benign",2022-07-08,0
+"884","Head and Neck Tumours, benign",2022-07-15,7
+"885","Head and Neck Tumours, benign",2022-07-22,14
+"886","Head and Neck Tumours, benign",2022-07-29,0
+"887","Head and Neck Tumours, benign",2022-08-05,0
+"888","Head and Neck Tumours, benign",2022-08-12,0
+"889","Head and Neck Tumours, benign",2022-08-19,0
+"890","Head and Neck Tumours, benign",2022-08-26,0
+"891","Head and Neck Tumours, benign",2022-09-02,0
+"892","Head and Neck Tumours, benign",2022-09-09,0
+"893","Head and Neck Tumours, benign",2022-09-16,0
+"894","Head and Neck Tumours, benign",2022-09-23,0
+"895","Head and Neck Tumours, benign",2022-09-30,0
+"896","Head and Neck Tumours, benign",2022-10-07,0
+"897","Head and Neck Tumours, benign",2022-10-14,154
+"898","Head and Neck Tumours, benign",2022-10-21,154
+"899","Head and Neck Tumours, benign",2022-10-28,154
+"900","Head and Neck Tumours, benign",2022-11-04,7
+"901","Head and Neck Tumours, benign",2022-11-11,154
+"902","Head and Neck Tumours, benign",2022-11-18,147
+"903","Head and Neck Tumours, benign",2022-11-25,149
+"904","Head and Neck Tumours, benign",2022-12-02,135
+"905","Head and Neck Tumours, benign",2022-12-09,126
+"906","Head and Neck Tumours, benign",2022-12-16,126
+"907","Head and Neck Tumours, benign",2022-12-23,115
+"908","Head and Neck Tumours, benign",2022-12-30,130
+"909","Head and Neck Tumours, benign",2023-01-06,121
+"910","Head and Neck Tumours, benign",2023-01-13,130
+"911","Head and Neck Tumours, benign",2023-01-20,113
+"912","Head and Neck Tumours, benign",2023-01-27,128
+"913","Head and Neck Tumours, benign",2023-02-03,126
+"914","Head and Neck Tumours, benign",2023-02-10,126
+"915","Head and Neck Tumours, benign",2023-02-17,119
+"916","Head and Neck Tumours, benign",2023-02-24,119
+"917","Head and Neck Tumours, benign",2023-03-03,17
+"918","Head and Neck Tumours, benign",2023-03-10,116
+"919","Head and Neck Tumours, benign",2023-03-17,107
+"920","Head and Neck Tumours, benign",2023-03-24,105
+"921","Head and Neck Tumours, benign",2023-03-31,105
+"922","Head and Neck Tumours, benign",2023-04-07,100
+"923","Head and Neck Tumours, benign",2023-04-14,98
+"924","Head and Neck Tumours, benign",2023-04-21,91
+"925","Head and Neck Tumours, benign",2023-04-28,93
+"926","Head and Neck Tumours, benign",2023-05-05,86
+"927","Head and Neck Tumours, benign",2023-05-12,85
+"928","Head and Neck Tumours, benign",2023-05-19,86
+"929","Head and Neck Tumours, benign",2023-05-26,79
+"930","Head and Neck Tumours, benign",2023-06-02,79
+"931","Head and Neck Tumours, benign",2023-06-09,79
+"932","Head and Neck Tumours, benign",2023-06-16,77
+"933","Head and Neck Tumours, benign",2023-06-23,72
+"934","Head and Neck Tumours, benign",2023-06-30,70
+"935","Head and Neck Tumours, benign",2023-07-07,63
+"936","Head and Neck Tumours, benign",2023-07-14,58
+"937","Head and Neck Tumours, benign",2023-07-21,58
+"938","Head and Neck Tumours, benign",2023-07-28,64
+"939","Head and Neck Tumours, benign",2023-08-04,71
+"940","Head and Neck Tumours, benign",2023-08-11,77
+"941","Head and Neck Tumours, benign",2023-08-18,72
+"942","Head and Neck Tumours, benign",2023-08-25,71
+"943","Head and Neck Tumours, benign",2023-09-01,71
+"944","Head and Neck Tumours, benign",2023-09-08,64
+"945","Head and Neck Tumours, benign",2023-09-15,40
+"946","Head and Neck Tumours, benign",2023-09-22,72
+"947","Head and Neck Tumours, benign",2023-09-29,69
+"948","Head and Neck Tumours, benign",2023-10-06,66
+"949","Head and Neck Tumours, benign",2023-10-13,60
+"950","Head and Neck Tumours, benign",2023-10-20,53
+"951","Head and Neck Tumours, benign",2023-10-27,52
+"952","Head and Neck Tumours, benign",2023-11-03,47
+"953","Head and Neck Tumours, benign",2023-11-10,48
+"954","Head and Neck Tumours, benign",2023-11-17,53
+"955","Head and Neck Tumours, benign",2023-11-24,52
+"956","Head and Neck Tumours, benign",2023-12-01,52
+"957","Head and Neck Tumours, benign",2023-12-08,59
+"958","Head and Neck Tumours, benign",2023-12-15,60
+"959","Head and Neck Tumours, benign",2023-12-22,45
+"960","Head and Neck Tumours, benign",2023-12-29,53
+"961","Head and Neck Tumours, general anaesthesia",2022-03-04,74
+"962","Head and Neck Tumours, general anaesthesia",2022-03-11,74
+"963","Head and Neck Tumours, general anaesthesia",2022-03-18,74
+"964","Head and Neck Tumours, general anaesthesia",2022-03-25,73
+"965","Head and Neck Tumours, general anaesthesia",2022-04-01,73
+"966","Head and Neck Tumours, general anaesthesia",2022-04-08,66
+"967","Head and Neck Tumours, general anaesthesia",2022-04-15,78
+"968","Head and Neck Tumours, general anaesthesia",2022-04-22,71
+"969","Head and Neck Tumours, general anaesthesia",2022-04-29,65
+"970","Head and Neck Tumours, general anaesthesia",2022-05-06,63
+"971","Head and Neck Tumours, general anaesthesia",2022-05-13,98
+"972","Head and Neck Tumours, general anaesthesia",2022-05-20,134
+"973","Head and Neck Tumours, general anaesthesia",2022-05-27,139
+"974","Head and Neck Tumours, general anaesthesia",2022-06-03,174
+"975","Head and Neck Tumours, general anaesthesia",2022-06-10,162
+"976","Head and Neck Tumours, general anaesthesia",2022-06-17,151
+"977","Head and Neck Tumours, general anaesthesia",2022-06-24,152
+"978","Head and Neck Tumours, general anaesthesia",2022-07-01,144
+"979","Head and Neck Tumours, general anaesthesia",2022-07-08,151
+"980","Head and Neck Tumours, general anaesthesia",2022-07-15,152
+"981","Head and Neck Tumours, general anaesthesia",2022-07-22,152
+"982","Head and Neck Tumours, general anaesthesia",2022-07-29,152
+"983","Head and Neck Tumours, general anaesthesia",2022-08-05,141
+"984","Head and Neck Tumours, general anaesthesia",2022-08-12,9
+"985","Head and Neck Tumours, general anaesthesia",2022-08-19,84
+"986","Head and Neck Tumours, general anaesthesia",2022-08-26,13
+"987","Head and Neck Tumours, general anaesthesia",2022-09-02,152
+"988","Head and Neck Tumours, general anaesthesia",2022-09-09,151
+"989","Head and Neck Tumours, general anaesthesia",2022-09-16,151
+"990","Head and Neck Tumours, general anaesthesia",2022-09-23,151
+"991","Head and Neck Tumours, general anaesthesia",2022-09-30,146
+"992","Head and Neck Tumours, general anaesthesia",2022-10-07,155
+"993","Head and Neck Tumours, general anaesthesia",2022-10-14,49
+"994","Head and Neck Tumours, general anaesthesia",2022-10-21,55
+"995","Head and Neck Tumours, general anaesthesia",2022-10-28,54
+"996","Head and Neck Tumours, general anaesthesia",2022-11-04,56
+"997","Head and Neck Tumours, general anaesthesia",2022-11-11,55
+"998","Head and Neck Tumours, general anaesthesia",2022-11-18,46
+"999","Head and Neck Tumours, general anaesthesia",2022-11-25,45
+"1000","Head and Neck Tumours, general anaesthesia",2022-12-02,43
+"1001","Head and Neck Tumours, general anaesthesia",2022-12-09,50
+"1002","Head and Neck Tumours, general anaesthesia",2022-12-16,50
+"1003","Head and Neck Tumours, general anaesthesia",2022-12-23,45
+"1004","Head and Neck Tumours, general anaesthesia",2022-12-30,59
+"1005","Head and Neck Tumours, general anaesthesia",2023-01-06,59
+"1006","Head and Neck Tumours, general anaesthesia",2023-01-13,57
+"1007","Head and Neck Tumours, general anaesthesia",2023-01-20,64
+"1008","Head and Neck Tumours, general anaesthesia",2023-01-27,64
+"1009","Head and Neck Tumours, general anaesthesia",2023-02-03,80
+"1010","Head and Neck Tumours, general anaesthesia",2023-02-10,57
+"1011","Head and Neck Tumours, general anaesthesia",2023-02-17,52
+"1012","Head and Neck Tumours, general anaesthesia",2023-02-24,59
+"1013","Head and Neck Tumours, general anaesthesia",2023-03-03,112
+"1014","Head and Neck Tumours, general anaesthesia",2023-03-10,60
+"1015","Head and Neck Tumours, general anaesthesia",2023-03-17,78
+"1016","Head and Neck Tumours, general anaesthesia",2023-03-24,52
+"1017","Head and Neck Tumours, general anaesthesia",2023-03-31,29
+"1018","Head and Neck Tumours, general anaesthesia",2023-04-07,29
+"1019","Head and Neck Tumours, general anaesthesia",2023-04-14,42
+"1020","Head and Neck Tumours, general anaesthesia",2023-04-21,15
+"1021","Head and Neck Tumours, general anaesthesia",2023-04-28,1
+"1022","Head and Neck Tumours, general anaesthesia",2023-05-05,24
+"1023","Head and Neck Tumours, general anaesthesia",2023-05-12,22
+"1024","Head and Neck Tumours, general anaesthesia",2023-05-19,15
+"1025","Head and Neck Tumours, general anaesthesia",2023-05-26,24
+"1026","Head and Neck Tumours, general anaesthesia",2023-06-02,29
+"1027","Head and Neck Tumours, general anaesthesia",2023-06-09,29
+"1028","Head and Neck Tumours, general anaesthesia",2023-06-16,36
+"1029","Head and Neck Tumours, general anaesthesia",2023-06-23,38
+"1030","Head and Neck Tumours, general anaesthesia",2023-06-30,45
+"1031","Head and Neck Tumours, general anaesthesia",2023-07-07,50
+"1032","Head and Neck Tumours, general anaesthesia",2023-07-14,43
+"1033","Head and Neck Tumours, general anaesthesia",2023-07-21,38
+"1034","Head and Neck Tumours, general anaesthesia",2023-07-28,19
+"1035","Head and Neck Tumours, general anaesthesia",2023-08-04,14
+"1036","Head and Neck Tumours, general anaesthesia",2023-08-11,50
+"1037","Head and Neck Tumours, general anaesthesia",2023-08-18,57
+"1038","Head and Neck Tumours, general anaesthesia",2023-08-25,57
+"1039","Head and Neck Tumours, general anaesthesia",2023-09-01,45
+"1040","Head and Neck Tumours, general anaesthesia",2023-09-08,43
+"1041","Head and Neck Tumours, general anaesthesia",2023-09-15,49
+"1042","Head and Neck Tumours, general anaesthesia",2023-09-22,52
+"1043","Head and Neck Tumours, general anaesthesia",2023-09-29,56
+"1044","Head and Neck Tumours, general anaesthesia",2023-10-06,60
+"1045","Head and Neck Tumours, general anaesthesia",2023-10-13,10
+"1046","Head and Neck Tumours, general anaesthesia",2023-10-20,52
+"1047","Head and Neck Tumours, general anaesthesia",2023-10-27,52
+"1048","Head and Neck Tumours, general anaesthesia",2023-11-03,47
+"1049","Head and Neck Tumours, general anaesthesia",2023-11-10,48
+"1050","Head and Neck Tumours, general anaesthesia",2023-11-17,53
+"1051","Head and Neck Tumours, general anaesthesia",2023-11-24,46
+"1052","Head and Neck Tumours, general anaesthesia",2023-12-01,52
+"1053","Head and Neck Tumours, general anaesthesia",2023-12-08,53
+"1054","Head and Neck Tumours, general anaesthesia",2023-12-15,38
+"1055","Head and Neck Tumours, general anaesthesia",2023-12-22,34
+"1056","Head and Neck Tumours, general anaesthesia",2023-12-29,46
+"1057","Head and Neck Tumours, local anaesthesia",2022-03-04,74
+"1058","Head and Neck Tumours, local anaesthesia",2022-03-11,74
+"1059","Head and Neck Tumours, local anaesthesia",2022-03-18,74
+"1060","Head and Neck Tumours, local anaesthesia",2022-03-25,73
+"1061","Head and Neck Tumours, local anaesthesia",2022-04-01,73
+"1062","Head and Neck Tumours, local anaesthesia",2022-04-08,14
+"1063","Head and Neck Tumours, local anaesthesia",2022-04-15,14
+"1064","Head and Neck Tumours, local anaesthesia",2022-04-22,7
+"1065","Head and Neck Tumours, local anaesthesia",2022-04-29,65
+"1066","Head and Neck Tumours, local anaesthesia",2022-05-06,63
+"1067","Head and Neck Tumours, local anaesthesia",2022-05-13,60
+"1068","Head and Neck Tumours, local anaesthesia",2022-05-20,57
+"1069","Head and Neck Tumours, local anaesthesia",2022-05-27,44
+"1070","Head and Neck Tumours, local anaesthesia",2022-06-03,45
+"1071","Head and Neck Tumours, local anaesthesia",2022-06-10,50
+"1072","Head and Neck Tumours, local anaesthesia",2022-06-17,56
+"1073","Head and Neck Tumours, local anaesthesia",2022-06-24,45
+"1074","Head and Neck Tumours, local anaesthesia",2022-07-01,66
+"1075","Head and Neck Tumours, local anaesthesia",2022-07-08,45
+"1076","Head and Neck Tumours, local anaesthesia",2022-07-15,48
+"1077","Head and Neck Tumours, local anaesthesia",2022-07-22,52
+"1078","Head and Neck Tumours, local anaesthesia",2022-07-29,52
+"1079","Head and Neck Tumours, local anaesthesia",2022-08-05,66
+"1080","Head and Neck Tumours, local anaesthesia",2022-08-12,65
+"1081","Head and Neck Tumours, local anaesthesia",2022-08-19,147
+"1082","Head and Neck Tumours, local anaesthesia",2022-08-26,66
+"1083","Head and Neck Tumours, local anaesthesia",2022-09-02,66
+"1084","Head and Neck Tumours, local anaesthesia",2022-09-09,66
+"1085","Head and Neck Tumours, local anaesthesia",2022-09-16,66
+"1086","Head and Neck Tumours, local anaesthesia",2022-09-23,66
+"1087","Head and Neck Tumours, local anaesthesia",2022-09-30,59
+"1088","Head and Neck Tumours, local anaesthesia",2022-10-07,59
+"1089","Head and Neck Tumours, local anaesthesia",2022-10-14,17
+"1090","Head and Neck Tumours, local anaesthesia",2022-10-21,21
+"1091","Head and Neck Tumours, local anaesthesia",2022-10-28,18
+"1092","Head and Neck Tumours, local anaesthesia",2022-11-04,21
+"1093","Head and Neck Tumours, local anaesthesia",2022-11-11,21
+"1094","Head and Neck Tumours, local anaesthesia",2022-11-18,16
+"1095","Head and Neck Tumours, local anaesthesia",2022-11-25,21
+"1096","Head and Neck Tumours, local anaesthesia",2022-12-02,14
+"1097","Head and Neck Tumours, local anaesthesia",2022-12-09,16
+"1098","Head and Neck Tumours, local anaesthesia",2022-12-16,16
+"1099","Head and Neck Tumours, local anaesthesia",2022-12-23,14
+"1100","Head and Neck Tumours, local anaesthesia",2022-12-30,10
+"1101","Head and Neck Tumours, local anaesthesia",2023-01-06,7
+"1102","Head and Neck Tumours, local anaesthesia",2023-01-13,3
+"1103","Head and Neck Tumours, local anaesthesia",2023-01-20,7
+"1104","Head and Neck Tumours, local anaesthesia",2023-01-27,10
+"1105","Head and Neck Tumours, local anaesthesia",2023-02-03,10
+"1106","Head and Neck Tumours, local anaesthesia",2023-02-10,0
+"1107","Head and Neck Tumours, local anaesthesia",2023-02-17,9
+"1108","Head and Neck Tumours, local anaesthesia",2023-02-24,14
+"1109","Head and Neck Tumours, local anaesthesia",2023-03-03,66
+"1110","Head and Neck Tumours, local anaesthesia",2023-03-10,10
+"1111","Head and Neck Tumours, local anaesthesia",2023-03-17,21
+"1112","Head and Neck Tumours, local anaesthesia",2023-03-24,21
+"1113","Head and Neck Tumours, local anaesthesia",2023-03-31,24
+"1114","Head and Neck Tumours, local anaesthesia",2023-04-07,22
+"1115","Head and Neck Tumours, local anaesthesia",2023-04-14,28
+"1116","Head and Neck Tumours, local anaesthesia",2023-04-21,30
+"1117","Head and Neck Tumours, local anaesthesia",2023-04-28,28
+"1118","Head and Neck Tumours, local anaesthesia",2023-05-05,29
+"1119","Head and Neck Tumours, local anaesthesia",2023-05-12,23
+"1120","Head and Neck Tumours, local anaesthesia",2023-05-19,24
+"1121","Head and Neck Tumours, local anaesthesia",2023-05-26,24
+"1122","Head and Neck Tumours, local anaesthesia",2023-06-02,23
+"1123","Head and Neck Tumours, local anaesthesia",2023-06-09,21
+"1124","Head and Neck Tumours, local anaesthesia",2023-06-16,23
+"1125","Head and Neck Tumours, local anaesthesia",2023-06-23,24
+"1126","Head and Neck Tumours, local anaesthesia",2023-06-30,24
+"1127","Head and Neck Tumours, local anaesthesia",2023-07-07,22
+"1128","Head and Neck Tumours, local anaesthesia",2023-07-14,35
+"1129","Head and Neck Tumours, local anaesthesia",2023-07-21,23
+"1130","Head and Neck Tumours, local anaesthesia",2023-07-28,28
+"1131","Head and Neck Tumours, local anaesthesia",2023-08-04,22
+"1132","Head and Neck Tumours, local anaesthesia",2023-08-11,21
+"1133","Head and Neck Tumours, local anaesthesia",2023-08-18,28
+"1134","Head and Neck Tumours, local anaesthesia",2023-08-25,28
+"1135","Head and Neck Tumours, local anaesthesia",2023-09-01,17
+"1136","Head and Neck Tumours, local anaesthesia",2023-09-08,22
+"1137","Head and Neck Tumours, local anaesthesia",2023-09-15,22
+"1138","Head and Neck Tumours, local anaesthesia",2023-09-22,85
+"1139","Head and Neck Tumours, local anaesthesia",2023-09-29,56
+"1140","Head and Neck Tumours, local anaesthesia",2023-10-06,27
+"1141","Head and Neck Tumours, local anaesthesia",2023-10-13,26
+"1142","Head and Neck Tumours, local anaesthesia",2023-10-20,26
+"1143","Head and Neck Tumours, local anaesthesia",2023-10-27,31
+"1144","Head and Neck Tumours, local anaesthesia",2023-11-03,17
+"1145","Head and Neck Tumours, local anaesthesia",2023-11-10,26
+"1146","Head and Neck Tumours, local anaesthesia",2023-11-17,27
+"1147","Head and Neck Tumours, local anaesthesia",2023-11-24,32
+"1148","Head and Neck Tumours, local anaesthesia",2023-12-01,25
+"1149","Head and Neck Tumours, local anaesthesia",2023-12-08,27
+"1150","Head and Neck Tumours, local anaesthesia",2023-12-15,25
+"1151","Head and Neck Tumours, local anaesthesia",2023-12-22,27
+"1152","Head and Neck Tumours, local anaesthesia",2023-12-29,45
+"1153","Hematology 1",2022-03-04,3
+"1154","Hematology 1",2022-03-11,3
+"1155","Hematology 1",2022-03-18,2
+"1156","Hematology 1",2022-03-25,2
+"1157","Hematology 1",2022-04-01,2
+"1158","Hematology 1",2022-04-08,2
+"1159","Hematology 1",2022-04-15,2
+"1160","Hematology 1",2022-04-22,2
+"1161","Hematology 1",2022-04-29,0
+"1162","Hematology 1",2022-05-06,0
+"1163","Hematology 1",2022-05-13,1
+"1164","Hematology 1",2022-05-20,2
+"1165","Hematology 1",2022-05-27,2
+"1166","Hematology 1",2022-06-03,2
+"1167","Hematology 1",2022-06-10,2
+"1168","Hematology 1",2022-06-17,2
+"1169","Hematology 1",2022-06-24,2
+"1170","Hematology 1",2022-07-01,2
+"1171","Hematology 1",2022-07-08,2
+"1172","Hematology 1",2022-07-15,2
+"1173","Hematology 1",2022-07-22,2
+"1174","Hematology 1",2022-07-29,2
+"1175","Hematology 1",2022-08-05,2
+"1176","Hematology 1",2022-08-12,2
+"1177","Hematology 1",2022-08-19,2
+"1178","Hematology 1",2022-08-26,2
+"1179","Hematology 1",2022-09-02,3
+"1180","Hematology 1",2022-09-09,1
+"1181","Hematology 1",2022-09-16,1
+"1182","Hematology 1",2022-09-23,32
+"1183","Hematology 1",2022-09-30,2
+"1184","Hematology 1",2022-10-07,1
+"1185","Hematology 1",2022-10-14,1
+"1186","Hematology 1",2022-10-21,0
+"1187","Hematology 1",2022-10-28,4
+"1188","Hematology 1",2022-11-04,2
+"1189","Hematology 1",2022-11-11,0
+"1190","Hematology 1",2022-11-18,3
+"1191","Hematology 1",2022-11-25,2
+"1192","Hematology 1",2022-12-02,4
+"1193","Hematology 1",2022-12-09,2
+"1194","Hematology 1",2022-12-16,2
+"1195","Hematology 1",2022-12-23,2
+"1196","Hematology 1",2022-12-30,2
+"1197","Hematology 1",2023-01-06,2
+"1198","Hematology 1",2023-01-13,2
+"1199","Hematology 1",2023-01-20,2
+"1200","Hematology 1",2023-01-27,2
+"1201","Hematology 1",2023-02-03,0
+"1202","Hematology 1",2023-02-10,4
+"1203","Hematology 1",2023-02-17,3
+"1204","Hematology 1",2023-02-24,4
+"1205","Hematology 1",2023-03-03,2
+"1206","Hematology 1",2023-03-10,3
+"1207","Hematology 1",2023-03-17,2
+"1208","Hematology 1",2023-03-24,2
+"1209","Hematology 1",2023-03-31,0
+"1210","Hematology 1",2023-04-07,2
+"1211","Hematology 1",2023-04-14,2
+"1212","Hematology 1",2023-04-21,2
+"1213","Hematology 1",2023-04-28,1
+"1214","Hematology 1",2023-05-05,9
+"1215","Hematology 1",2023-05-12,15
+"1216","Hematology 1",2023-05-19,0
+"1217","Hematology 1",2023-05-26,2
+"1218","Hematology 1",2023-06-02,2
+"1219","Hematology 1",2023-06-09,2
+"1220","Hematology 1",2023-06-16,2
+"1221","Hematology 1",2023-06-23,2
+"1222","Hematology 1",2023-06-30,0
+"1223","Hematology 1",2023-07-07,0
+"1224","Hematology 1",2023-07-14,3
+"1225","Hematology 1",2023-07-21,1
+"1226","Hematology 1",2023-07-28,0
+"1227","Hematology 1",2023-08-04,1
+"1228","Hematology 1",2023-08-11,1
+"1229","Hematology 1",2023-08-18,1
+"1230","Hematology 1",2023-08-25,2
+"1231","Hematology 1",2023-09-01,0
+"1232","Hematology 1",2023-09-08,1
+"1233","Hematology 1",2023-09-15,1
+"1234","Hematology 1",2023-09-22,1
+"1235","Hematology 1",2023-09-29,2
+"1236","Hematology 1",2023-10-06,4
+"1237","Hematology 1",2023-10-13,5
+"1238","Hematology 1",2023-10-20,3
+"1239","Hematology 1",2023-10-27,5
+"1240","Hematology 1",2023-11-03,4
+"1241","Hematology 1",2023-11-10,4
+"1242","Hematology 1",2023-11-17,5
+"1243","Hematology 1",2023-11-24,5
+"1244","Hematology 1",2023-12-01,3
+"1245","Hematology 1",2023-12-08,4
+"1246","Hematology 1",2023-12-15,4
+"1247","Hematology 1",2023-12-22,4
+"1248","Hematology 1",2023-12-29,4
+"1249","Hematology 2",2022-03-04,0
+"1250","Hematology 2",2022-03-11,0
+"1251","Hematology 2",2022-03-18,1
+"1252","Hematology 2",2022-03-25,2
+"1253","Hematology 2",2022-04-01,2
+"1254","Hematology 2",2022-04-08,2
+"1255","Hematology 2",2022-04-15,2
+"1256","Hematology 2",2022-04-22,2
+"1257","Hematology 2",2022-04-29,1
+"1258","Hematology 2",2022-05-06,0
+"1259","Hematology 2",2022-05-13,1
+"1260","Hematology 2",2022-05-20,2
+"1261","Hematology 2",2022-05-27,2
+"1262","Hematology 2",2022-06-03,2
+"1263","Hematology 2",2022-06-10,2
+"1264","Hematology 2",2022-06-17,2
+"1265","Hematology 2",2022-06-24,2
+"1266","Hematology 2",2022-07-01,2
+"1267","Hematology 2",2022-07-08,2
+"1268","Hematology 2",2022-07-15,2
+"1269","Hematology 2",2022-07-22,2
+"1270","Hematology 2",2022-07-29,2
+"1271","Hematology 2",2022-08-05,2
+"1272","Hematology 2",2022-08-12,2
+"1273","Hematology 2",2022-08-19,2
+"1274","Hematology 2",2022-08-26,2
+"1275","Hematology 2",2022-09-02,3
+"1276","Hematology 2",2022-09-09,1
+"1277","Hematology 2",2022-09-16,1
+"1278","Hematology 2",2022-09-23,2
+"1279","Hematology 2",2022-09-30,2
+"1280","Hematology 2",2022-10-07,1
+"1281","Hematology 2",2022-10-14,1
+"1282","Hematology 2",2022-10-21,1
+"1283","Hematology 2",2022-10-28,4
+"1284","Hematology 2",2022-11-04,2
+"1285","Hematology 2",2022-11-11,2
+"1286","Hematology 2",2022-11-18,2
+"1287","Hematology 2",2022-11-25,3
+"1288","Hematology 2",2022-12-02,4
+"1289","Hematology 2",2022-12-09,3
+"1290","Hematology 2",2022-12-16,3
+"1291","Hematology 2",2022-12-23,4
+"1292","Hematology 2",2022-12-30,2
+"1293","Hematology 2",2023-01-06,7
+"1294","Hematology 2",2023-01-13,7
+"1295","Hematology 2",2023-01-20,4
+"1296","Hematology 2",2023-01-27,8
+"1297","Hematology 2",2023-02-03,1
+"1298","Hematology 2",2023-02-10,4
+"1299","Hematology 2",2023-02-17,3
+"1300","Hematology 2",2023-02-24,4
+"1301","Hematology 2",2023-03-03,2
+"1302","Hematology 2",2023-03-10,3
+"1303","Hematology 2",2023-03-17,3
+"1304","Hematology 2",2023-03-24,2
+"1305","Hematology 2",2023-03-31,3
+"1306","Hematology 2",2023-04-07,13
+"1307","Hematology 2",2023-04-14,8
+"1308","Hematology 2",2023-04-21,3
+"1309","Hematology 2",2023-04-28,3
+"1310","Hematology 2",2023-05-05,9
+"1311","Hematology 2",2023-05-12,15
+"1312","Hematology 2",2023-05-19,2
+"1313","Hematology 2",2023-05-26,2
+"1314","Hematology 2",2023-06-02,2
+"1315","Hematology 2",2023-06-09,2
+"1316","Hematology 2",2023-06-16,3
+"1317","Hematology 2",2023-06-23,2
+"1318","Hematology 2",2023-06-30,0
+"1319","Hematology 2",2023-07-07,0
+"1320","Hematology 2",2023-07-14,2
+"1321","Hematology 2",2023-07-21,0
+"1322","Hematology 2",2023-07-28,0
+"1323","Hematology 2",2023-08-04,0
+"1324","Hematology 2",2023-08-11,2
+"1325","Hematology 2",2023-08-18,2
+"1326","Hematology 2",2023-08-25,1
+"1327","Hematology 2",2023-09-01,1
+"1328","Hematology 2",2023-09-08,2
+"1329","Hematology 2",2023-09-15,1
+"1330","Hematology 2",2023-09-22,1
+"1331","Hematology 2",2023-09-29,3
+"1332","Hematology 2",2023-10-06,5
+"1333","Hematology 2",2023-10-13,4
+"1334","Hematology 2",2023-10-20,4
+"1335","Hematology 2",2023-10-27,5
+"1336","Hematology 2",2023-11-03,5
+"1337","Hematology 2",2023-11-10,3
+"1338","Hematology 2",2023-11-17,5
+"1339","Hematology 2",2023-11-24,5
+"1340","Hematology 2",2023-12-01,4
+"1341","Hematology 2",2023-12-08,5
+"1342","Hematology 2",2023-12-15,5
+"1343","Hematology 2",2023-12-22,5
+"1344","Hematology 2",2023-12-29,6
+"1345","Hematology 3",2022-03-04,3
+"1346","Hematology 3",2022-03-11,3
+"1347","Hematology 3",2022-03-18,2
+"1348","Hematology 3",2022-03-25,2
+"1349","Hematology 3",2022-04-01,2
+"1350","Hematology 3",2022-04-08,2
+"1351","Hematology 3",2022-04-15,2
+"1352","Hematology 3",2022-04-22,2
+"1353","Hematology 3",2022-04-29,0
+"1354","Hematology 3",2022-05-06,0
+"1355","Hematology 3",2022-05-13,1
+"1356","Hematology 3",2022-05-20,2
+"1357","Hematology 3",2022-05-27,2
+"1358","Hematology 3",2022-06-03,2
+"1359","Hematology 3",2022-06-10,2
+"1360","Hematology 3",2022-06-17,2
+"1361","Hematology 3",2022-06-24,2
+"1362","Hematology 3",2022-07-01,2
+"1363","Hematology 3",2022-07-08,5
+"1364","Hematology 3",2022-07-15,2
+"1365","Hematology 3",2022-07-22,2
+"1366","Hematology 3",2022-07-29,2
+"1367","Hematology 3",2022-08-05,2
+"1368","Hematology 3",2022-08-12,1
+"1369","Hematology 3",2022-08-19,14
+"1370","Hematology 3",2022-08-26,2
+"1371","Hematology 3",2022-09-02,3
+"1372","Hematology 3",2022-09-09,1
+"1373","Hematology 3",2022-09-16,1
+"1374","Hematology 3",2022-09-23,32
+"1375","Hematology 3",2022-09-30,2
+"1376","Hematology 3",2022-10-07,1
+"1377","Hematology 3",2022-10-14,0
+"1378","Hematology 3",2022-10-21,0
+"1379","Hematology 3",2022-10-28,0
+"1380","Hematology 3",2022-11-04,0
+"1381","Hematology 3",2022-11-11,0
+"1382","Hematology 3",2022-11-18,0
+"1383","Hematology 3",2022-11-25,0
+"1384","Hematology 3",2022-12-02,4
+"1385","Hematology 3",2022-12-09,3
+"1386","Hematology 3",2022-12-16,3
+"1387","Hematology 3",2022-12-23,2
+"1388","Hematology 3",2022-12-30,2
+"1389","Hematology 3",2023-01-06,2
+"1390","Hematology 3",2023-01-13,4
+"1391","Hematology 3",2023-01-20,2
+"1392","Hematology 3",2023-01-27,2
+"1393","Hematology 3",2023-02-03,3
+"1394","Hematology 3",2023-02-10,4
+"1395","Hematology 3",2023-02-17,3
+"1396","Hematology 3",2023-02-24,4
+"1397","Hematology 3",2023-03-03,2
+"1398","Hematology 3",2023-03-10,3
+"1399","Hematology 3",2023-03-17,2
+"1400","Hematology 3",2023-03-24,2
+"1401","Hematology 3",2023-03-31,0
+"1402","Hematology 3",2023-04-07,2
+"1403","Hematology 3",2023-04-14,2
+"1404","Hematology 3",2023-04-21,2
+"1405","Hematology 3",2023-04-28,3
+"1406","Hematology 3",2023-05-05,10
+"1407","Hematology 3",2023-05-12,15
+"1408","Hematology 3",2023-05-19,1
+"1409","Hematology 3",2023-05-26,2
+"1410","Hematology 3",2023-06-02,2
+"1411","Hematology 3",2023-06-09,2
+"1412","Hematology 3",2023-06-16,4
+"1413","Hematology 3",2023-06-23,2
+"1414","Hematology 3",2023-06-30,0
+"1415","Hematology 3",2023-07-07,2
+"1416","Hematology 3",2023-07-14,0
+"1417","Hematology 3",2023-07-21,1
+"1418","Hematology 3",2023-07-28,0
+"1419","Hematology 3",2023-08-04,1
+"1420","Hematology 3",2023-08-11,1
+"1421","Hematology 3",2023-08-18,7
+"1422","Hematology 3",2023-08-25,2
+"1423","Hematology 3",2023-09-01,1
+"1424","Hematology 3",2023-09-08,2
+"1425","Hematology 3",2023-09-15,3
+"1426","Hematology 3",2023-09-22,2
+"1427","Hematology 3",2023-09-29,4
+"1428","Hematology 3",2023-10-06,5
+"1429","Hematology 3",2023-10-13,4
+"1430","Hematology 3",2023-10-20,5
+"1431","Hematology 3",2023-10-27,5
+"1432","Hematology 3",2023-11-03,5
+"1433","Hematology 3",2023-11-10,4
+"1434","Hematology 3",2023-11-17,6
+"1435","Hematology 3",2023-11-24,6
+"1436","Hematology 3",2023-12-01,3
+"1437","Hematology 3",2023-12-08,4
+"1438","Hematology 3",2023-12-15,5
+"1439","Hematology 3",2023-12-22,5
+"1440","Hematology 3",2023-12-29,4
+"1441","Medical Oncology 1",2022-03-04,12
+"1442","Medical Oncology 1",2022-03-11,12
+"1443","Medical Oncology 1",2022-03-18,11
+"1444","Medical Oncology 1",2022-03-25,10
+"1445","Medical Oncology 1",2022-04-01,10
+"1446","Medical Oncology 1",2022-04-08,14
+"1447","Medical Oncology 1",2022-04-15,9
+"1448","Medical Oncology 1",2022-04-22,17
+"1449","Medical Oncology 1",2022-04-29,16
+"1450","Medical Oncology 1",2022-05-06,13
+"1451","Medical Oncology 1",2022-05-13,14
+"1452","Medical Oncology 1",2022-05-20,14
+"1453","Medical Oncology 1",2022-05-27,7
+"1454","Medical Oncology 1",2022-06-03,7
+"1455","Medical Oncology 1",2022-06-10,8
+"1456","Medical Oncology 1",2022-06-17,10
+"1457","Medical Oncology 1",2022-06-24,27
+"1458","Medical Oncology 1",2022-07-01,16
+"1459","Medical Oncology 1",2022-07-08,14
+"1460","Medical Oncology 1",2022-07-15,18
+"1461","Medical Oncology 1",2022-07-22,23
+"1462","Medical Oncology 1",2022-07-29,14
+"1463","Medical Oncology 1",2022-08-05,15
+"1464","Medical Oncology 1",2022-08-12,10
+"1465","Medical Oncology 1",2022-08-19,14
+"1466","Medical Oncology 1",2022-08-26,10
+"1467","Medical Oncology 1",2022-09-02,14
+"1468","Medical Oncology 1",2022-09-09,10
+"1469","Medical Oncology 1",2022-09-16,10
+"1470","Medical Oncology 1",2022-09-23,10
+"1471","Medical Oncology 1",2022-09-30,14
+"1472","Medical Oncology 1",2022-10-07,22
+"1473","Medical Oncology 1",2022-10-14,14
+"1474","Medical Oncology 1",2022-10-21,14
+"1475","Medical Oncology 1",2022-10-28,10
+"1476","Medical Oncology 1",2022-11-04,14
+"1477","Medical Oncology 1",2022-11-11,9
+"1478","Medical Oncology 1",2022-11-18,8
+"1479","Medical Oncology 1",2022-11-25,9
+"1480","Medical Oncology 1",2022-12-02,14
+"1481","Medical Oncology 1",2022-12-09,8
+"1482","Medical Oncology 1",2022-12-16,11
+"1483","Medical Oncology 1",2022-12-23,14
+"1484","Medical Oncology 1",2022-12-30,14
+"1485","Medical Oncology 1",2023-01-06,10
+"1486","Medical Oncology 1",2023-01-13,4
+"1487","Medical Oncology 1",2023-01-20,10
+"1488","Medical Oncology 1",2023-01-27,9
+"1489","Medical Oncology 1",2023-02-03,8
+"1490","Medical Oncology 1",2023-02-10,7
+"1491","Medical Oncology 1",2023-02-17,7
+"1492","Medical Oncology 1",2023-02-24,9
+"1493","Medical Oncology 1",2023-03-03,10
+"1494","Medical Oncology 1",2023-03-10,9
+"1495","Medical Oncology 1",2023-03-17,14
+"1496","Medical Oncology 1",2023-03-24,10
+"1497","Medical Oncology 1",2023-03-31,10
+"1498","Medical Oncology 1",2023-04-07,10
+"1499","Medical Oncology 1",2023-04-14,9
+"1500","Medical Oncology 1",2023-04-21,15
+"1501","Medical Oncology 1",2023-04-28,8
+"1502","Medical Oncology 1",2023-05-05,14
+"1503","Medical Oncology 1",2023-05-12,8
+"1504","Medical Oncology 1",2023-05-19,4
+"1505","Medical Oncology 1",2023-05-26,15
+"1506","Medical Oncology 1",2023-06-02,6
+"1507","Medical Oncology 1",2023-06-09,7
+"1508","Medical Oncology 1",2023-06-16,8
+"1509","Medical Oncology 1",2023-06-23,7
+"1510","Medical Oncology 1",2023-06-30,11
+"1511","Medical Oncology 1",2023-07-07,4
+"1512","Medical Oncology 1",2023-07-14,7
+"1513","Medical Oncology 1",2023-07-21,7
+"1514","Medical Oncology 1",2023-07-28,8
+"1515","Medical Oncology 1",2023-08-04,3
+"1516","Medical Oncology 1",2023-08-11,8
+"1517","Medical Oncology 1",2023-08-18,7
+"1518","Medical Oncology 1",2023-08-25,7
+"1519","Medical Oncology 1",2023-09-01,11
+"1520","Medical Oncology 1",2023-09-08,9
+"1521","Medical Oncology 1",2023-09-15,2
+"1522","Medical Oncology 1",2023-09-22,4
+"1523","Medical Oncology 1",2023-09-29,5
+"1524","Medical Oncology 1",2023-10-06,6
+"1525","Medical Oncology 1",2023-10-13,11
+"1526","Medical Oncology 1",2023-10-20,5
+"1527","Medical Oncology 1",2023-10-27,7
+"1528","Medical Oncology 1",2023-11-03,6
+"1529","Medical Oncology 1",2023-11-10,14
+"1530","Medical Oncology 1",2023-11-17,13
+"1531","Medical Oncology 1",2023-11-24,7
+"1532","Medical Oncology 1",2023-12-01,11
+"1533","Medical Oncology 1",2023-12-08,14
+"1534","Medical Oncology 1",2023-12-15,11
+"1535","Medical Oncology 1",2023-12-22,11
+"1536","Medical Oncology 1",2023-12-29,24
+"1537","Medical Oncology 2",2022-03-04,7
+"1538","Medical Oncology 2",2022-03-11,6
+"1539","Medical Oncology 2",2022-03-18,5
+"1540","Medical Oncology 2",2022-03-25,4
+"1541","Medical Oncology 2",2022-04-01,3
+"1542","Medical Oncology 2",2022-04-08,7
+"1543","Medical Oncology 2",2022-04-15,0
+"1544","Medical Oncology 2",2022-04-22,17
+"1545","Medical Oncology 2",2022-04-29,7
+"1546","Medical Oncology 2",2022-05-06,7
+"1547","Medical Oncology 2",2022-05-13,7
+"1548","Medical Oncology 2",2022-05-20,7
+"1549","Medical Oncology 2",2022-05-27,7
+"1550","Medical Oncology 2",2022-06-03,7
+"1551","Medical Oncology 2",2022-06-10,8
+"1552","Medical Oncology 2",2022-06-17,8
+"1553","Medical Oncology 2",2022-06-24,8
+"1554","Medical Oncology 2",2022-07-01,14
+"1555","Medical Oncology 2",2022-07-08,7
+"1556","Medical Oncology 2",2022-07-15,12
+"1557","Medical Oncology 2",2022-07-22,16
+"1558","Medical Oncology 2",2022-07-29,7
+"1559","Medical Oncology 2",2022-08-05,9
+"1560","Medical Oncology 2",2022-08-12,2
+"1561","Medical Oncology 2",2022-08-19,9
+"1562","Medical Oncology 2",2022-08-26,11
+"1563","Medical Oncology 2",2022-09-02,15
+"1564","Medical Oncology 2",2022-09-09,3
+"1565","Medical Oncology 2",2022-09-16,3
+"1566","Medical Oncology 2",2022-09-23,3
+"1567","Medical Oncology 2",2022-09-30,11
+"1568","Medical Oncology 2",2022-10-07,14
+"1569","Medical Oncology 2",2022-10-14,0
+"1570","Medical Oncology 2",2022-10-21,7
+"1571","Medical Oncology 2",2022-10-28,2
+"1572","Medical Oncology 2",2022-11-04,3
+"1573","Medical Oncology 2",2022-11-11,2
+"1574","Medical Oncology 2",2022-11-18,1
+"1575","Medical Oncology 2",2022-11-25,9
+"1576","Medical Oncology 2",2022-12-02,3
+"1577","Medical Oncology 2",2022-12-09,8
+"1578","Medical Oncology 2",2022-12-16,9
+"1579","Medical Oncology 2",2022-12-23,9
+"1580","Medical Oncology 2",2022-12-30,2
+"1581","Medical Oncology 2",2023-01-06,3
+"1582","Medical Oncology 2",2023-01-13,4
+"1583","Medical Oncology 2",2023-01-20,3
+"1584","Medical Oncology 2",2023-01-27,3
+"1585","Medical Oncology 2",2023-02-03,3
+"1586","Medical Oncology 2",2023-02-10,7
+"1587","Medical Oncology 2",2023-02-17,7
+"1588","Medical Oncology 2",2023-02-24,4
+"1589","Medical Oncology 2",2023-03-03,4
+"1590","Medical Oncology 2",2023-03-10,3
+"1591","Medical Oncology 2",2023-03-17,7
+"1592","Medical Oncology 2",2023-03-24,4
+"1593","Medical Oncology 2",2023-03-31,4
+"1594","Medical Oncology 2",2023-04-07,7
+"1595","Medical Oncology 2",2023-04-14,4
+"1596","Medical Oncology 2",2023-04-21,1
+"1597","Medical Oncology 2",2023-04-28,3
+"1598","Medical Oncology 2",2023-05-05,14
+"1599","Medical Oncology 2",2023-05-12,8
+"1600","Medical Oncology 2",2023-05-19,3
+"1601","Medical Oncology 2",2023-05-26,7
+"1602","Medical Oncology 2",2023-06-02,4
+"1603","Medical Oncology 2",2023-06-09,1
+"1604","Medical Oncology 2",2023-06-16,3
+"1605","Medical Oncology 2",2023-06-23,4
+"1606","Medical Oncology 2",2023-06-30,8
+"1607","Medical Oncology 2",2023-07-07,4
+"1608","Medical Oncology 2",2023-07-14,4
+"1609","Medical Oncology 2",2023-07-21,0
+"1610","Medical Oncology 2",2023-07-28,7
+"1611","Medical Oncology 2",2023-08-04,4
+"1612","Medical Oncology 2",2023-08-11,9
+"1613","Medical Oncology 2",2023-08-18,7
+"1614","Medical Oncology 2",2023-08-25,8
+"1615","Medical Oncology 2",2023-09-01,11
+"1616","Medical Oncology 2",2023-09-08,4
+"1617","Medical Oncology 2",2023-09-15,2
+"1618","Medical Oncology 2",2023-09-22,2
+"1619","Medical Oncology 2",2023-09-29,4
+"1620","Medical Oncology 2",2023-10-06,7
+"1621","Medical Oncology 2",2023-10-13,10
+"1622","Medical Oncology 2",2023-10-20,6
+"1623","Medical Oncology 2",2023-10-27,6
+"1624","Medical Oncology 2",2023-11-03,6
+"1625","Medical Oncology 2",2023-11-10,12
+"1626","Medical Oncology 2",2023-11-17,6
+"1627","Medical Oncology 2",2023-11-24,7
+"1628","Medical Oncology 2",2023-12-01,10
+"1629","Medical Oncology 2",2023-12-08,7
+"1630","Medical Oncology 2",2023-12-15,11
+"1631","Medical Oncology 2",2023-12-22,4
+"1632","Medical Oncology 2",2023-12-29,11
+"1633","Medical Oncology 3",2022-03-04,5
+"1634","Medical Oncology 3",2022-03-11,8
+"1635","Medical Oncology 3",2022-03-18,11
+"1636","Medical Oncology 3",2022-03-25,14
+"1637","Medical Oncology 3",2022-04-01,17
+"1638","Medical Oncology 3",2022-04-08,22
+"1639","Medical Oncology 3",2022-04-15,9
+"1640","Medical Oncology 3",2022-04-22,23
+"1641","Medical Oncology 3",2022-04-29,7
+"1642","Medical Oncology 3",2022-05-06,13
+"1643","Medical Oncology 3",2022-05-13,18
+"1644","Medical Oncology 3",2022-05-20,22
+"1645","Medical Oncology 3",2022-05-27,12
+"1646","Medical Oncology 3",2022-06-03,17
+"1647","Medical Oncology 3",2022-06-10,16
+"1648","Medical Oncology 3",2022-06-17,14
+"1649","Medical Oncology 3",2022-06-24,10
+"1650","Medical Oncology 3",2022-07-01,21
+"1651","Medical Oncology 3",2022-07-08,18
+"1652","Medical Oncology 3",2022-07-15,25
+"1653","Medical Oncology 3",2022-07-22,32
+"1654","Medical Oncology 3",2022-07-29,21
+"1655","Medical Oncology 3",2022-08-05,28
+"1656","Medical Oncology 3",2022-08-12,12
+"1657","Medical Oncology 3",2022-08-19,17
+"1658","Medical Oncology 3",2022-08-26,10
+"1659","Medical Oncology 3",2022-09-02,24
+"1660","Medical Oncology 3",2022-09-09,19
+"1661","Medical Oncology 3",2022-09-16,19
+"1662","Medical Oncology 3",2022-09-23,19
+"1663","Medical Oncology 3",2022-09-30,18
+"1664","Medical Oncology 3",2022-10-07,30
+"1665","Medical Oncology 3",2022-10-14,29
+"1666","Medical Oncology 3",2022-10-21,21
+"1667","Medical Oncology 3",2022-10-28,14
+"1668","Medical Oncology 3",2022-11-04,21
+"1669","Medical Oncology 3",2022-11-11,19
+"1670","Medical Oncology 3",2022-11-18,21
+"1671","Medical Oncology 3",2022-11-25,23
+"1672","Medical Oncology 3",2022-12-02,21
+"1673","Medical Oncology 3",2022-12-09,14
+"1674","Medical Oncology 3",2022-12-16,16
+"1675","Medical Oncology 3",2022-12-23,18
+"1676","Medical Oncology 3",2022-12-30,17
+"1677","Medical Oncology 3",2023-01-06,4
+"1678","Medical Oncology 3",2023-01-13,11
+"1679","Medical Oncology 3",2023-01-20,15
+"1680","Medical Oncology 3",2023-01-27,18
+"1681","Medical Oncology 3",2023-02-03,14
+"1682","Medical Oncology 3",2023-02-10,14
+"1683","Medical Oncology 3",2023-02-17,14
+"1684","Medical Oncology 3",2023-02-24,8
+"1685","Medical Oncology 3",2023-03-03,11
+"1686","Medical Oncology 3",2023-03-10,9
+"1687","Medical Oncology 3",2023-03-17,16
+"1688","Medical Oncology 3",2023-03-24,6
+"1689","Medical Oncology 3",2023-03-31,8
+"1690","Medical Oncology 3",2023-04-07,13
+"1691","Medical Oncology 3",2023-04-14,11
+"1692","Medical Oncology 3",2023-04-21,16
+"1693","Medical Oncology 3",2023-04-28,22
+"1694","Medical Oncology 3",2023-05-05,16
+"1695","Medical Oncology 3",2023-05-12,9
+"1696","Medical Oncology 3",2023-05-19,16
+"1697","Medical Oncology 3",2023-05-26,22
+"1698","Medical Oncology 3",2023-06-02,14
+"1699","Medical Oncology 3",2023-06-09,16
+"1700","Medical Oncology 3",2023-06-16,11
+"1701","Medical Oncology 3",2023-06-23,9
+"1702","Medical Oncology 3",2023-06-30,18
+"1703","Medical Oncology 3",2023-07-07,7
+"1704","Medical Oncology 3",2023-07-14,14
+"1705","Medical Oncology 3",2023-07-21,16
+"1706","Medical Oncology 3",2023-07-28,11
+"1707","Medical Oncology 3",2023-08-04,14
+"1708","Medical Oncology 3",2023-08-11,18
+"1709","Medical Oncology 3",2023-08-18,21
+"1710","Medical Oncology 3",2023-08-25,21
+"1711","Medical Oncology 3",2023-09-01,21
+"1712","Medical Oncology 3",2023-09-08,14
+"1713","Medical Oncology 3",2023-09-15,14
+"1714","Medical Oncology 3",2023-09-22,18
+"1715","Medical Oncology 3",2023-09-29,18
+"1716","Medical Oncology 3",2023-10-06,17
+"1717","Medical Oncology 3",2023-10-13,7
+"1718","Medical Oncology 3",2023-10-20,8
+"1719","Medical Oncology 3",2023-10-27,10
+"1720","Medical Oncology 3",2023-11-03,7
+"1721","Medical Oncology 3",2023-11-10,19
+"1722","Medical Oncology 3",2023-11-17,7
+"1723","Medical Oncology 3",2023-11-24,3
+"1724","Medical Oncology 3",2023-12-01,18
+"1725","Medical Oncology 3",2023-12-08,19
+"1726","Medical Oncology 3",2023-12-15,14
+"1727","Medical Oncology 3",2023-12-22,19
+"1728","Medical Oncology 3",2023-12-29,25
+"1729","Pediatric Hematology",2022-03-04,0
+"1730","Pediatric Hematology",2022-03-11,0
+"1731","Pediatric Hematology",2022-03-18,0
+"1732","Pediatric Hematology",2022-03-25,0
+"1733","Pediatric Hematology",2022-04-01,0
+"1734","Pediatric Hematology",2022-04-08,0
+"1735","Pediatric Hematology",2022-04-15,0
+"1736","Pediatric Hematology",2022-04-22,0
+"1737","Pediatric Hematology",2022-04-29,0
+"1738","Pediatric Hematology",2022-05-06,0
+"1739","Pediatric Hematology",2022-05-13,0
+"1740","Pediatric Hematology",2022-05-20,0
+"1741","Pediatric Hematology",2022-05-27,0
+"1742","Pediatric Hematology",2022-06-03,0
+"1743","Pediatric Hematology",2022-06-10,0
+"1744","Pediatric Hematology",2022-06-17,0
+"1745","Pediatric Hematology",2022-06-24,0
+"1746","Pediatric Hematology",2022-07-01,0
+"1747","Pediatric Hematology",2022-07-08,0
+"1748","Pediatric Hematology",2022-07-15,0
+"1749","Pediatric Hematology",2022-07-22,0
+"1750","Pediatric Hematology",2022-07-29,0
+"1751","Pediatric Hematology",2022-08-05,0
+"1752","Pediatric Hematology",2022-08-12,0
+"1753","Pediatric Hematology",2022-08-19,0
+"1754","Pediatric Hematology",2022-08-26,0
+"1755","Pediatric Hematology",2022-09-02,0
+"1756","Pediatric Hematology",2022-09-09,0
+"1757","Pediatric Hematology",2022-09-16,0
+"1758","Pediatric Hematology",2022-09-23,0
+"1759","Pediatric Hematology",2022-09-30,0
+"1760","Pediatric Hematology",2022-10-07,0
+"1761","Pediatric Hematology",2022-10-14,0
+"1762","Pediatric Hematology",2022-10-21,0
+"1763","Pediatric Hematology",2022-10-28,0
+"1764","Pediatric Hematology",2022-11-04,0
+"1765","Pediatric Hematology",2022-11-11,0
+"1766","Pediatric Hematology",2022-11-18,0
+"1767","Pediatric Hematology",2022-11-25,0
+"1768","Pediatric Hematology",2022-12-02,0
+"1769","Pediatric Hematology",2022-12-09,0
+"1770","Pediatric Hematology",2022-12-16,0
+"1771","Pediatric Hematology",2022-12-23,0
+"1772","Pediatric Hematology",2022-12-30,0
+"1773","Pediatric Hematology",2023-01-06,0
+"1774","Pediatric Hematology",2023-01-13,0
+"1775","Pediatric Hematology",2023-01-20,0
+"1776","Pediatric Hematology",2023-01-27,0
+"1777","Pediatric Hematology",2023-02-03,0
+"1778","Pediatric Hematology",2023-02-10,0
+"1779","Pediatric Hematology",2023-02-17,0
+"1780","Pediatric Hematology",2023-02-24,0
+"1781","Pediatric Hematology",2023-03-03,0
+"1782","Pediatric Hematology",2023-03-10,0
+"1783","Pediatric Hematology",2023-03-17,0
+"1784","Pediatric Hematology",2023-03-24,0
+"1785","Pediatric Hematology",2023-03-31,0
+"1786","Pediatric Hematology",2023-04-07,0
+"1787","Pediatric Hematology",2023-04-14,0
+"1788","Pediatric Hematology",2023-04-21,0
+"1789","Pediatric Hematology",2023-04-28,0
+"1790","Pediatric Hematology",2023-05-05,0
+"1791","Pediatric Hematology",2023-05-12,0
+"1792","Pediatric Hematology",2023-05-19,0
+"1793","Pediatric Hematology",2023-05-26,0
+"1794","Pediatric Hematology",2023-06-02,0
+"1795","Pediatric Hematology",2023-06-09,0
+"1796","Pediatric Hematology",2023-06-16,0
+"1797","Pediatric Hematology",2023-06-23,0
+"1798","Pediatric Hematology",2023-06-30,0
+"1799","Pediatric Hematology",2023-07-07,0
+"1800","Pediatric Hematology",2023-07-14,0
+"1801","Pediatric Hematology",2023-07-21,0
+"1802","Pediatric Hematology",2023-07-28,0
+"1803","Pediatric Hematology",2023-08-04,0
+"1804","Pediatric Hematology",2023-08-11,0
+"1805","Pediatric Hematology",2023-08-18,0
+"1806","Pediatric Hematology",2023-08-25,0
+"1807","Pediatric Hematology",2023-09-01,0
+"1808","Pediatric Hematology",2023-09-08,0
+"1809","Pediatric Hematology",2023-09-15,0
+"1810","Pediatric Hematology",2023-09-22,0
+"1811","Pediatric Hematology",2023-09-29,0
+"1812","Pediatric Hematology",2023-10-06,0
+"1813","Pediatric Hematology",2023-10-13,0
+"1814","Pediatric Hematology",2023-10-20,0
+"1815","Pediatric Hematology",2023-10-27,0
+"1816","Pediatric Hematology",2023-11-03,0
+"1817","Pediatric Hematology",2023-11-10,0
+"1818","Pediatric Hematology",2023-11-17,0
+"1819","Pediatric Hematology",2023-11-24,0
+"1820","Pediatric Hematology",2023-12-01,0
+"1821","Pediatric Hematology",2023-12-08,0
+"1822","Pediatric Hematology",2023-12-15,0
+"1823","Pediatric Hematology",2023-12-22,0
+"1824","Pediatric Hematology",2023-12-29,0
+"1825","Pediatric Oncology",2022-03-04,0
+"1826","Pediatric Oncology",2022-03-11,0
+"1827","Pediatric Oncology",2022-03-18,0
+"1828","Pediatric Oncology",2022-03-25,0
+"1829","Pediatric Oncology",2022-04-01,0
+"1830","Pediatric Oncology",2022-04-08,0
+"1831","Pediatric Oncology",2022-04-15,0
+"1832","Pediatric Oncology",2022-04-22,0
+"1833","Pediatric Oncology",2022-04-29,0
+"1834","Pediatric Oncology",2022-05-06,0
+"1835","Pediatric Oncology",2022-05-13,0
+"1836","Pediatric Oncology",2022-05-20,0
+"1837","Pediatric Oncology",2022-05-27,0
+"1838","Pediatric Oncology",2022-06-03,0
+"1839","Pediatric Oncology",2022-06-10,0
+"1840","Pediatric Oncology",2022-06-17,0
+"1841","Pediatric Oncology",2022-06-24,0
+"1842","Pediatric Oncology",2022-07-01,0
+"1843","Pediatric Oncology",2022-07-08,7
+"1844","Pediatric Oncology",2022-07-15,4
+"1845","Pediatric Oncology",2022-07-22,0
+"1846","Pediatric Oncology",2022-07-29,31
+"1847","Pediatric Oncology",2022-08-05,0
+"1848","Pediatric Oncology",2022-08-12,1
+"1849","Pediatric Oncology",2022-08-19,14
+"1850","Pediatric Oncology",2022-08-26,0
+"1851","Pediatric Oncology",2022-09-02,0
+"1852","Pediatric Oncology",2022-09-09,0
+"1853","Pediatric Oncology",2022-09-16,0
+"1854","Pediatric Oncology",2022-09-23,0
+"1855","Pediatric Oncology",2022-09-30,0
+"1856","Pediatric Oncology",2022-10-07,0
+"1857","Pediatric Oncology",2022-10-14,3
+"1858","Pediatric Oncology",2022-10-21,3
+"1859","Pediatric Oncology",2022-10-28,3
+"1860","Pediatric Oncology",2022-11-04,3
+"1861","Pediatric Oncology",2022-11-11,3
+"1862","Pediatric Oncology",2022-11-18,3
+"1863","Pediatric Oncology",2022-11-25,0
+"1864","Pediatric Oncology",2022-12-02,0
+"1865","Pediatric Oncology",2022-12-09,0
+"1866","Pediatric Oncology",2022-12-16,0
+"1867","Pediatric Oncology",2022-12-23,0
+"1868","Pediatric Oncology",2022-12-30,0
+"1869","Pediatric Oncology",2023-01-06,0
+"1870","Pediatric Oncology",2023-01-13,0
+"1871","Pediatric Oncology",2023-01-20,0
+"1872","Pediatric Oncology",2023-01-27,0
+"1873","Pediatric Oncology",2023-02-03,0
+"1874","Pediatric Oncology",2023-02-10,0
+"1875","Pediatric Oncology",2023-02-17,0
+"1876","Pediatric Oncology",2023-02-24,0
+"1877","Pediatric Oncology",2023-03-03,0
+"1878","Pediatric Oncology",2023-03-10,0
+"1879","Pediatric Oncology",2023-03-17,0
+"1880","Pediatric Oncology",2023-03-24,0
+"1881","Pediatric Oncology",2023-03-31,0
+"1882","Pediatric Oncology",2023-04-07,0
+"1883","Pediatric Oncology",2023-04-14,0
+"1884","Pediatric Oncology",2023-04-21,0
+"1885","Pediatric Oncology",2023-04-28,0
+"1886","Pediatric Oncology",2023-05-05,0
+"1887","Pediatric Oncology",2023-05-12,0
+"1888","Pediatric Oncology",2023-05-19,0
+"1889","Pediatric Oncology",2023-05-26,0
+"1890","Pediatric Oncology",2023-06-02,0
+"1891","Pediatric Oncology",2023-06-09,0
+"1892","Pediatric Oncology",2023-06-16,0
+"1893","Pediatric Oncology",2023-06-23,0
+"1894","Pediatric Oncology",2023-06-30,0
+"1895","Pediatric Oncology",2023-07-07,0
+"1896","Pediatric Oncology",2023-07-14,0
+"1897","Pediatric Oncology",2023-07-21,0
+"1898","Pediatric Oncology",2023-07-28,0
+"1899","Pediatric Oncology",2023-08-04,0
+"1900","Pediatric Oncology",2023-08-11,0
+"1901","Pediatric Oncology",2023-08-18,0
+"1902","Pediatric Oncology",2023-08-25,0
+"1903","Pediatric Oncology",2023-09-01,0
+"1904","Pediatric Oncology",2023-09-08,0
+"1905","Pediatric Oncology",2023-09-15,0
+"1906","Pediatric Oncology",2023-09-22,0
+"1907","Pediatric Oncology",2023-09-29,0
+"1908","Pediatric Oncology",2023-10-06,0
+"1909","Pediatric Oncology",2023-10-13,0
+"1910","Pediatric Oncology",2023-10-20,0
+"1911","Pediatric Oncology",2023-10-27,0
+"1912","Pediatric Oncology",2023-11-03,0
+"1913","Pediatric Oncology",2023-11-10,0
+"1914","Pediatric Oncology",2023-11-17,0
+"1915","Pediatric Oncology",2023-11-24,0
+"1916","Pediatric Oncology",2023-12-01,0
+"1917","Pediatric Oncology",2023-12-08,0
+"1918","Pediatric Oncology",2023-12-15,0
+"1919","Pediatric Oncology",2023-12-22,0
+"1920","Pediatric Oncology",2023-12-29,0
+"1921","Proctology",2022-03-04,13
+"1922","Proctology",2022-03-11,15
+"1923","Proctology",2022-03-18,17
+"1924","Proctology",2022-03-25,19
+"1925","Proctology",2022-04-01,21
+"1926","Proctology",2022-04-08,17
+"1927","Proctology",2022-04-15,10
+"1928","Proctology",2022-04-22,8
+"1929","Proctology",2022-04-29,14
+"1930","Proctology",2022-05-06,9
+"1931","Proctology",2022-05-13,9
+"1932","Proctology",2022-05-20,9
+"1933","Proctology",2022-05-27,11
+"1934","Proctology",2022-06-03,16
+"1935","Proctology",2022-06-10,13
+"1936","Proctology",2022-06-17,10
+"1937","Proctology",2022-06-24,10
+"1938","Proctology",2022-07-01,9
+"1939","Proctology",2022-07-08,7
+"1940","Proctology",2022-07-15,18
+"1941","Proctology",2022-07-22,30
+"1942","Proctology",2022-07-29,24
+"1943","Proctology",2022-08-05,23
+"1944","Proctology",2022-08-12,9
+"1945","Proctology",2022-08-19,0
+"1946","Proctology",2022-08-26,10
+"1947","Proctology",2022-09-02,16
+"1948","Proctology",2022-09-09,17
+"1949","Proctology",2022-09-16,17
+"1950","Proctology",2022-09-23,17
+"1951","Proctology",2022-09-30,17
+"1952","Proctology",2022-10-07,16
+"1953","Proctology",2022-10-14,17
+"1954","Proctology",2022-10-21,12
+"1955","Proctology",2022-10-28,10
+"1956","Proctology",2022-11-04,9
+"1957","Proctology",2022-11-11,10
+"1958","Proctology",2022-11-18,10
+"1959","Proctology",2022-11-25,11
+"1960","Proctology",2022-12-02,16
+"1961","Proctology",2022-12-09,10
+"1962","Proctology",2022-12-16,10
+"1963","Proctology",2022-12-23,10
+"1964","Proctology",2022-12-30,10
+"1965","Proctology",2023-01-06,10
+"1966","Proctology",2023-01-13,10
+"1967","Proctology",2023-01-20,10
+"1968","Proctology",2023-01-27,17
+"1969","Proctology",2023-02-03,9
+"1970","Proctology",2023-02-10,9
+"1971","Proctology",2023-02-17,10
+"1972","Proctology",2023-02-24,9
+"1973","Proctology",2023-03-03,17
+"1974","Proctology",2023-03-10,17
+"1975","Proctology",2023-03-17,17
+"1976","Proctology",2023-03-24,17
+"1977","Proctology",2023-03-31,17
+"1978","Proctology",2023-04-07,16
+"1979","Proctology",2023-04-14,17
+"1980","Proctology",2023-04-21,17
+"1981","Proctology",2023-04-28,17
+"1982","Proctology",2023-05-05,23
+"1983","Proctology",2023-05-12,23
+"1984","Proctology",2023-05-19,16
+"1985","Proctology",2023-05-26,17
+"1986","Proctology",2023-06-02,17
+"1987","Proctology",2023-06-09,10
+"1988","Proctology",2023-06-16,9
+"1989","Proctology",2023-06-23,3
+"1990","Proctology",2023-06-30,2
+"1991","Proctology",2023-07-07,3
+"1992","Proctology",2023-07-14,9
+"1993","Proctology",2023-07-21,9
+"1994","Proctology",2023-07-28,2
+"1995","Proctology",2023-08-04,2
+"1996","Proctology",2023-08-11,3
+"1997","Proctology",2023-08-18,3
+"1998","Proctology",2023-08-25,2
+"1999","Proctology",2023-09-01,2
+"2000","Proctology",2023-09-08,10
+"2001","Proctology",2023-09-15,10
+"2002","Proctology",2023-09-22,10
+"2003","Proctology",2023-09-29,8
+"2004","Proctology",2023-10-06,6
+"2005","Proctology",2023-10-13,6
+"2006","Proctology",2023-10-20,5
+"2007","Proctology",2023-10-27,6
+"2008","Proctology",2023-11-03,13
+"2009","Proctology",2023-11-10,12
+"2010","Proctology",2023-11-17,12
+"2011","Proctology",2023-11-24,12
+"2012","Proctology",2023-12-01,6
+"2013","Proctology",2023-12-08,6
+"2014","Proctology",2023-12-15,20
+"2015","Proctology",2023-12-22,20
+"2016","Proctology",2023-12-29,26
+"2017","Radiation Oncology 1",2022-03-04,32
+"2018","Radiation Oncology 1",2022-03-11,33
+"2019","Radiation Oncology 1",2022-03-18,34
+"2020","Radiation Oncology 1",2022-03-25,35
+"2021","Radiation Oncology 1",2022-04-01,36
+"2022","Radiation Oncology 1",2022-04-08,0
+"2023","Radiation Oncology 1",2022-04-15,30
+"2024","Radiation Oncology 1",2022-04-22,5
+"2025","Radiation Oncology 1",2022-04-29,34
+"2026","Radiation Oncology 1",2022-05-06,28
+"2027","Radiation Oncology 1",2022-05-13,32
+"2028","Radiation Oncology 1",2022-05-20,35
+"2029","Radiation Oncology 1",2022-05-27,35
+"2030","Radiation Oncology 1",2022-06-03,35
+"2031","Radiation Oncology 1",2022-06-10,38
+"2032","Radiation Oncology 1",2022-06-17,42
+"2033","Radiation Oncology 1",2022-06-24,38
+"2034","Radiation Oncology 1",2022-07-01,35
+"2035","Radiation Oncology 1",2022-07-08,29
+"2036","Radiation Oncology 1",2022-07-15,32
+"2037","Radiation Oncology 1",2022-07-22,35
+"2038","Radiation Oncology 1",2022-07-29,35
+"2039","Radiation Oncology 1",2022-08-05,29
+"2040","Radiation Oncology 1",2022-08-12,29
+"2041","Radiation Oncology 1",2022-08-19,28
+"2042","Radiation Oncology 1",2022-08-26,23
+"2043","Radiation Oncology 1",2022-09-02,23
+"2044","Radiation Oncology 1",2022-09-09,21
+"2045","Radiation Oncology 1",2022-09-16,21
+"2046","Radiation Oncology 1",2022-09-23,28
+"2047","Radiation Oncology 1",2022-09-30,30
+"2048","Radiation Oncology 1",2022-10-07,28
+"2049","Radiation Oncology 1",2022-10-14,22
+"2050","Radiation Oncology 1",2022-10-21,21
+"2051","Radiation Oncology 1",2022-10-28,21
+"2052","Radiation Oncology 1",2022-11-04,22
+"2053","Radiation Oncology 1",2022-11-11,21
+"2054","Radiation Oncology 1",2022-11-18,21
+"2055","Radiation Oncology 1",2022-11-25,21
+"2056","Radiation Oncology 1",2022-12-02,15
+"2057","Radiation Oncology 1",2022-12-09,21
+"2058","Radiation Oncology 1",2022-12-16,14
+"2059","Radiation Oncology 1",2022-12-23,29
+"2060","Radiation Oncology 1",2022-12-30,29
+"2061","Radiation Oncology 1",2023-01-06,28
+"2062","Radiation Oncology 1",2023-01-13,23
+"2063","Radiation Oncology 1",2023-01-20,23
+"2064","Radiation Oncology 1",2023-01-27,21
+"2065","Radiation Oncology 1",2023-02-03,21
+"2066","Radiation Oncology 1",2023-02-10,21
+"2067","Radiation Oncology 1",2023-02-17,24
+"2068","Radiation Oncology 1",2023-02-24,21
+"2069","Radiation Oncology 1",2023-03-03,28
+"2070","Radiation Oncology 1",2023-03-10,28
+"2071","Radiation Oncology 1",2023-03-17,21
+"2072","Radiation Oncology 1",2023-03-24,22
+"2073","Radiation Oncology 1",2023-03-31,30
+"2074","Radiation Oncology 1",2023-04-07,30
+"2075","Radiation Oncology 1",2023-04-14,30
+"2076","Radiation Oncology 1",2023-04-21,28
+"2077","Radiation Oncology 1",2023-04-28,28
+"2078","Radiation Oncology 1",2023-05-05,22
+"2079","Radiation Oncology 1",2023-05-12,21
+"2080","Radiation Oncology 1",2023-05-19,21
+"2081","Radiation Oncology 1",2023-05-26,14
+"2082","Radiation Oncology 1",2023-06-02,21
+"2083","Radiation Oncology 1",2023-06-09,15
+"2084","Radiation Oncology 1",2023-06-16,9
+"2085","Radiation Oncology 1",2023-06-23,7
+"2086","Radiation Oncology 1",2023-06-30,7
+"2087","Radiation Oncology 1",2023-07-07,3
+"2088","Radiation Oncology 1",2023-07-14,14
+"2089","Radiation Oncology 1",2023-07-21,15
+"2090","Radiation Oncology 1",2023-07-28,21
+"2091","Radiation Oncology 1",2023-08-04,21
+"2092","Radiation Oncology 1",2023-08-11,21
+"2093","Radiation Oncology 1",2023-08-18,15
+"2094","Radiation Oncology 1",2023-08-25,15
+"2095","Radiation Oncology 1",2023-09-01,15
+"2096","Radiation Oncology 1",2023-09-08,15
+"2097","Radiation Oncology 1",2023-09-15,14
+"2098","Radiation Oncology 1",2023-09-22,14
+"2099","Radiation Oncology 1",2023-09-29,19
+"2100","Radiation Oncology 1",2023-10-06,24
+"2101","Radiation Oncology 1",2023-10-13,20
+"2102","Radiation Oncology 1",2023-10-20,17
+"2103","Radiation Oncology 1",2023-10-27,18
+"2104","Radiation Oncology 1",2023-11-03,24
+"2105","Radiation Oncology 1",2023-11-10,24
+"2106","Radiation Oncology 1",2023-11-17,31
+"2107","Radiation Oncology 1",2023-11-24,24
+"2108","Radiation Oncology 1",2023-12-01,26
+"2109","Radiation Oncology 1",2023-12-08,0
+"2110","Radiation Oncology 1",2023-12-15,32
+"2111","Radiation Oncology 1",2023-12-22,32
+"2112","Radiation Oncology 1",2023-12-29,32
+"2113","Radiation Oncology 2",2022-03-04,31
+"2114","Radiation Oncology 2",2022-03-11,32
+"2115","Radiation Oncology 2",2022-03-18,34
+"2116","Radiation Oncology 2",2022-03-25,35
+"2117","Radiation Oncology 2",2022-04-01,36
+"2118","Radiation Oncology 2",2022-04-08,0
+"2119","Radiation Oncology 2",2022-04-15,36
+"2120","Radiation Oncology 2",2022-04-22,5
+"2121","Radiation Oncology 2",2022-04-29,34
+"2122","Radiation Oncology 2",2022-05-06,34
+"2123","Radiation Oncology 2",2022-05-13,34
+"2124","Radiation Oncology 2",2022-05-20,35
+"2125","Radiation Oncology 2",2022-05-27,42
+"2126","Radiation Oncology 2",2022-06-03,35
+"2127","Radiation Oncology 2",2022-06-10,38
+"2128","Radiation Oncology 2",2022-06-17,42
+"2129","Radiation Oncology 2",2022-06-24,36
+"2130","Radiation Oncology 2",2022-07-01,35
+"2131","Radiation Oncology 2",2022-07-08,29
+"2132","Radiation Oncology 2",2022-07-15,28
+"2133","Radiation Oncology 2",2022-07-22,28
+"2134","Radiation Oncology 2",2022-07-29,28
+"2135","Radiation Oncology 2",2022-08-05,29
+"2136","Radiation Oncology 2",2022-08-12,29
+"2137","Radiation Oncology 2",2022-08-19,28
+"2138","Radiation Oncology 2",2022-08-26,23
+"2139","Radiation Oncology 2",2022-09-02,23
+"2140","Radiation Oncology 2",2022-09-09,21
+"2141","Radiation Oncology 2",2022-09-16,21
+"2142","Radiation Oncology 2",2022-09-23,28
+"2143","Radiation Oncology 2",2022-09-30,29
+"2144","Radiation Oncology 2",2022-10-07,29
+"2145","Radiation Oncology 2",2022-10-14,22
+"2146","Radiation Oncology 2",2022-10-21,21
+"2147","Radiation Oncology 2",2022-10-28,21
+"2148","Radiation Oncology 2",2022-11-04,28
+"2149","Radiation Oncology 2",2022-11-11,21
+"2150","Radiation Oncology 2",2022-11-18,16
+"2151","Radiation Oncology 2",2022-11-25,21
+"2152","Radiation Oncology 2",2022-12-02,15
+"2153","Radiation Oncology 2",2022-12-09,16
+"2154","Radiation Oncology 2",2022-12-16,14
+"2155","Radiation Oncology 2",2022-12-23,29
+"2156","Radiation Oncology 2",2022-12-30,29
+"2157","Radiation Oncology 2",2023-01-06,28
+"2158","Radiation Oncology 2",2023-01-13,23
+"2159","Radiation Oncology 2",2023-01-20,23
+"2160","Radiation Oncology 2",2023-01-27,21
+"2161","Radiation Oncology 2",2023-02-03,21
+"2162","Radiation Oncology 2",2023-02-10,21
+"2163","Radiation Oncology 2",2023-02-17,24
+"2164","Radiation Oncology 2",2023-02-24,21
+"2165","Radiation Oncology 2",2023-03-03,28
+"2166","Radiation Oncology 2",2023-03-10,28
+"2167","Radiation Oncology 2",2023-03-17,21
+"2168","Radiation Oncology 2",2023-03-24,22
+"2169","Radiation Oncology 2",2023-03-31,30
+"2170","Radiation Oncology 2",2023-04-07,30
+"2171","Radiation Oncology 2",2023-04-14,22
+"2172","Radiation Oncology 2",2023-04-21,28
+"2173","Radiation Oncology 2",2023-04-28,21
+"2174","Radiation Oncology 2",2023-05-05,22
+"2175","Radiation Oncology 2",2023-05-12,15
+"2176","Radiation Oncology 2",2023-05-19,21
+"2177","Radiation Oncology 2",2023-05-26,14
+"2178","Radiation Oncology 2",2023-06-02,21
+"2179","Radiation Oncology 2",2023-06-09,14
+"2180","Radiation Oncology 2",2023-06-16,14
+"2181","Radiation Oncology 2",2023-06-23,7
+"2182","Radiation Oncology 2",2023-06-30,2
+"2183","Radiation Oncology 2",2023-07-07,8
+"2184","Radiation Oncology 2",2023-07-14,14
+"2185","Radiation Oncology 2",2023-07-21,9
+"2186","Radiation Oncology 2",2023-07-28,21
+"2187","Radiation Oncology 2",2023-08-04,21
+"2188","Radiation Oncology 2",2023-08-11,21
+"2189","Radiation Oncology 2",2023-08-18,15
+"2190","Radiation Oncology 2",2023-08-25,15
+"2191","Radiation Oncology 2",2023-09-01,21
+"2192","Radiation Oncology 2",2023-09-08,15
+"2193","Radiation Oncology 2",2023-09-15,14
+"2194","Radiation Oncology 2",2023-09-22,14
+"2195","Radiation Oncology 2",2023-09-29,19
+"2196","Radiation Oncology 2",2023-10-06,24
+"2197","Radiation Oncology 2",2023-10-13,24
+"2198","Radiation Oncology 2",2023-10-20,21
+"2199","Radiation Oncology 2",2023-10-27,18
+"2200","Radiation Oncology 2",2023-11-03,24
+"2201","Radiation Oncology 2",2023-11-10,24
+"2202","Radiation Oncology 2",2023-11-17,31
+"2203","Radiation Oncology 2",2023-11-24,24
+"2204","Radiation Oncology 2",2023-12-01,26
+"2205","Radiation Oncology 2",2023-12-08,0
+"2206","Radiation Oncology 2",2023-12-15,32
+"2207","Radiation Oncology 2",2023-12-22,32
+"2208","Radiation Oncology 2",2023-12-29,32
+"2209","Radiation Oncology 3",2022-03-04,10
+"2210","Radiation Oncology 3",2022-03-11,9
+"2211","Radiation Oncology 3",2022-03-18,8
+"2212","Radiation Oncology 3",2022-03-25,8
+"2213","Radiation Oncology 3",2022-04-01,7
+"2214","Radiation Oncology 3",2022-04-08,2
+"2215","Radiation Oncology 3",2022-04-15,2
+"2216","Radiation Oncology 3",2022-04-22,8
+"2217","Radiation Oncology 3",2022-04-29,31
+"2218","Radiation Oncology 3",2022-05-06,2
+"2219","Radiation Oncology 3",2022-05-13,6
+"2220","Radiation Oncology 3",2022-05-20,9
+"2221","Radiation Oncology 3",2022-05-27,14
+"2222","Radiation Oncology 3",2022-06-03,7
+"2223","Radiation Oncology 3",2022-06-10,4
+"2224","Radiation Oncology 3",2022-06-17,0
+"2225","Radiation Oncology 3",2022-06-24,0
+"2226","Radiation Oncology 3",2022-07-01,7
+"2227","Radiation Oncology 3",2022-07-08,21
+"2228","Radiation Oncology 3",2022-07-15,24
+"2229","Radiation Oncology 3",2022-07-22,28
+"2230","Radiation Oncology 3",2022-07-29,28
+"2231","Radiation Oncology 3",2022-08-05,28
+"2232","Radiation Oncology 3",2022-08-12,28
+"2233","Radiation Oncology 3",2022-08-19,28
+"2234","Radiation Oncology 3",2022-08-26,28
+"2235","Radiation Oncology 3",2022-09-02,21
+"2236","Radiation Oncology 3",2022-09-09,16
+"2237","Radiation Oncology 3",2022-09-16,16
+"2238","Radiation Oncology 3",2022-09-23,17
+"2239","Radiation Oncology 3",2022-09-30,15
+"2240","Radiation Oncology 3",2022-10-07,28
+"2241","Radiation Oncology 3",2022-10-14,22
+"2242","Radiation Oncology 3",2022-10-21,21
+"2243","Radiation Oncology 3",2022-10-28,21
+"2244","Radiation Oncology 3",2022-11-04,16
+"2245","Radiation Oncology 3",2022-11-11,14
+"2246","Radiation Oncology 3",2022-11-18,14
+"2247","Radiation Oncology 3",2022-11-25,10
+"2248","Radiation Oncology 3",2022-12-02,9
+"2249","Radiation Oncology 3",2022-12-09,14
+"2250","Radiation Oncology 3",2022-12-16,9
+"2251","Radiation Oncology 3",2022-12-23,9
+"2252","Radiation Oncology 3",2022-12-30,14
+"2253","Radiation Oncology 3",2023-01-06,9
+"2254","Radiation Oncology 3",2023-01-13,7
+"2255","Radiation Oncology 3",2023-01-20,7
+"2256","Radiation Oncology 3",2023-01-27,1
+"2257","Radiation Oncology 3",2023-02-03,1
+"2258","Radiation Oncology 3",2023-02-10,7
+"2259","Radiation Oncology 3",2023-02-17,8
+"2260","Radiation Oncology 3",2023-02-24,14
+"2261","Radiation Oncology 3",2023-03-03,14
+"2262","Radiation Oncology 3",2023-03-10,14
+"2263","Radiation Oncology 3",2023-03-17,14
+"2264","Radiation Oncology 3",2023-03-24,0
+"2265","Radiation Oncology 3",2023-03-31,8
+"2266","Radiation Oncology 3",2023-04-07,8
+"2267","Radiation Oncology 3",2023-04-14,2
+"2268","Radiation Oncology 3",2023-04-21,8
+"2269","Radiation Oncology 3",2023-04-28,8
+"2270","Radiation Oncology 3",2023-05-05,2
+"2271","Radiation Oncology 3",2023-05-12,7
+"2272","Radiation Oncology 3",2023-05-19,7
+"2273","Radiation Oncology 3",2023-05-26,7
+"2274","Radiation Oncology 3",2023-06-02,7
+"2275","Radiation Oncology 3",2023-06-09,7
+"2276","Radiation Oncology 3",2023-06-16,2
+"2277","Radiation Oncology 3",2023-06-23,1
+"2278","Radiation Oncology 3",2023-06-30,2
+"2279","Radiation Oncology 3",2023-07-07,1
+"2280","Radiation Oncology 3",2023-07-14,7
+"2281","Radiation Oncology 3",2023-07-21,2
+"2282","Radiation Oncology 3",2023-07-28,1
+"2283","Radiation Oncology 3",2023-08-04,0
+"2284","Radiation Oncology 3",2023-08-11,0
+"2285","Radiation Oncology 3",2023-08-18,0
+"2286","Radiation Oncology 3",2023-08-25,1
+"2287","Radiation Oncology 3",2023-09-01,1
+"2288","Radiation Oncology 3",2023-09-08,0
+"2289","Radiation Oncology 3",2023-09-15,0
+"2290","Radiation Oncology 3",2023-09-22,0
+"2291","Radiation Oncology 3",2023-09-29,8
+"2292","Radiation Oncology 3",2023-10-06,17
+"2293","Radiation Oncology 3",2023-10-13,11
+"2294","Radiation Oncology 3",2023-10-20,11
+"2295","Radiation Oncology 3",2023-10-27,11
+"2296","Radiation Oncology 3",2023-11-03,11
+"2297","Radiation Oncology 3",2023-11-10,10
+"2298","Radiation Oncology 3",2023-11-17,17
+"2299","Radiation Oncology 3",2023-11-24,24
+"2300","Radiation Oncology 3",2023-12-01,26
+"2301","Radiation Oncology 3",2023-12-08,0
+"2302","Radiation Oncology 3",2023-12-15,32
+"2303","Radiation Oncology 3",2023-12-22,31
+"2304","Radiation Oncology 3",2023-12-29,24
+"2305","Thoracoabdominal oncology",2022-03-04,5
+"2306","Thoracoabdominal oncology",2022-03-11,4
+"2307","Thoracoabdominal oncology",2022-03-18,4
+"2308","Thoracoabdominal oncology",2022-03-25,4
+"2309","Thoracoabdominal oncology",2022-04-01,3
+"2310","Thoracoabdominal oncology",2022-04-08,3
+"2311","Thoracoabdominal oncology",2022-04-15,0
+"2312","Thoracoabdominal oncology",2022-04-22,0
+"2313","Thoracoabdominal oncology",2022-04-29,0
+"2314","Thoracoabdominal oncology",2022-05-06,0
+"2315","Thoracoabdominal oncology",2022-05-13,0
+"2316","Thoracoabdominal oncology",2022-05-20,1
+"2317","Thoracoabdominal oncology",2022-05-27,1
+"2318","Thoracoabdominal oncology",2022-06-03,0
+"2319","Thoracoabdominal oncology",2022-06-10,2
+"2320","Thoracoabdominal oncology",2022-06-17,3
+"2321","Thoracoabdominal oncology",2022-06-24,2
+"2322","Thoracoabdominal oncology",2022-07-01,0
+"2323","Thoracoabdominal oncology",2022-07-08,3
+"2324","Thoracoabdominal oncology",2022-07-15,2
+"2325","Thoracoabdominal oncology",2022-07-22,2
+"2326","Thoracoabdominal oncology",2022-07-29,2
+"2327","Thoracoabdominal oncology",2022-08-05,2
+"2328","Thoracoabdominal oncology",2022-08-12,2
+"2329","Thoracoabdominal oncology",2022-08-19,13
+"2330","Thoracoabdominal oncology",2022-08-26,3
+"2331","Thoracoabdominal oncology",2022-09-02,4
+"2332","Thoracoabdominal oncology",2022-09-09,0
+"2333","Thoracoabdominal oncology",2022-09-16,3
+"2334","Thoracoabdominal oncology",2022-09-23,3
+"2335","Thoracoabdominal oncology",2022-09-30,3
+"2336","Thoracoabdominal oncology",2022-10-07,3
+"2337","Thoracoabdominal oncology",2022-10-14,3
+"2338","Thoracoabdominal oncology",2022-10-21,1
+"2339","Thoracoabdominal oncology",2022-10-28,3
+"2340","Thoracoabdominal oncology",2022-11-04,1
+"2341","Thoracoabdominal oncology",2022-11-11,2
+"2342","Thoracoabdominal oncology",2022-11-18,3
+"2343","Thoracoabdominal oncology",2022-11-25,3
+"2344","Thoracoabdominal oncology",2022-12-02,3
+"2345","Thoracoabdominal oncology",2022-12-09,3
+"2346","Thoracoabdominal oncology",2022-12-16,2
+"2347","Thoracoabdominal oncology",2022-12-23,2
+"2348","Thoracoabdominal oncology",2022-12-30,0
+"2349","Thoracoabdominal oncology",2023-01-06,1
+"2350","Thoracoabdominal oncology",2023-01-13,0
+"2351","Thoracoabdominal oncology",2023-01-20,0
+"2352","Thoracoabdominal oncology",2023-01-27,3
+"2353","Thoracoabdominal oncology",2023-02-03,0
+"2354","Thoracoabdominal oncology",2023-02-10,3
+"2355","Thoracoabdominal oncology",2023-02-17,3
+"2356","Thoracoabdominal oncology",2023-02-24,4
+"2357","Thoracoabdominal oncology",2023-03-03,1
+"2358","Thoracoabdominal oncology",2023-03-10,1
+"2359","Thoracoabdominal oncology",2023-03-17,10
+"2360","Thoracoabdominal oncology",2023-03-24,3
+"2361","Thoracoabdominal oncology",2023-03-31,18
+"2362","Thoracoabdominal oncology",2023-04-07,15
+"2363","Thoracoabdominal oncology",2023-04-14,8
+"2364","Thoracoabdominal oncology",2023-04-21,8
+"2365","Thoracoabdominal oncology",2023-04-28,3
+"2366","Thoracoabdominal oncology",2023-05-05,3
+"2367","Thoracoabdominal oncology",2023-05-12,2
+"2368","Thoracoabdominal oncology",2023-05-19,4
+"2369","Thoracoabdominal oncology",2023-05-26,2
+"2370","Thoracoabdominal oncology",2023-06-02,3
+"2371","Thoracoabdominal oncology",2023-06-09,1
+"2372","Thoracoabdominal oncology",2023-06-16,1
+"2373","Thoracoabdominal oncology",2023-06-23,3
+"2374","Thoracoabdominal oncology",2023-06-30,0
+"2375","Thoracoabdominal oncology",2023-07-07,7
+"2376","Thoracoabdominal oncology",2023-07-14,2
+"2377","Thoracoabdominal oncology",2023-07-21,1
+"2378","Thoracoabdominal oncology",2023-07-28,1
+"2379","Thoracoabdominal oncology",2023-08-04,3
+"2380","Thoracoabdominal oncology",2023-08-11,2
+"2381","Thoracoabdominal oncology",2023-08-18,1
+"2382","Thoracoabdominal oncology",2023-08-25,0
+"2383","Thoracoabdominal oncology",2023-09-01,1
+"2384","Thoracoabdominal oncology",2023-09-08,0
+"2385","Thoracoabdominal oncology",2023-09-15,0
+"2386","Thoracoabdominal oncology",2023-09-22,0
+"2387","Thoracoabdominal oncology",2023-09-29,2
+"2388","Thoracoabdominal oncology",2023-10-06,3
+"2389","Thoracoabdominal oncology",2023-10-13,3
+"2390","Thoracoabdominal oncology",2023-10-20,3
+"2391","Thoracoabdominal oncology",2023-10-27,3
+"2392","Thoracoabdominal oncology",2023-11-03,4
+"2393","Thoracoabdominal oncology",2023-11-10,4
+"2394","Thoracoabdominal oncology",2023-11-17,3
+"2395","Thoracoabdominal oncology",2023-11-24,3
+"2396","Thoracoabdominal oncology",2023-12-01,4
+"2397","Thoracoabdominal oncology",2023-12-08,4
+"2398","Thoracoabdominal oncology",2023-12-15,4
+"2399","Thoracoabdominal oncology",2023-12-22,4
+"2400","Thoracoabdominal oncology",2023-12-29,11
+"2401","Urology",2022-03-04,5
+"2402","Urology",2022-03-11,6
+"2403","Urology",2022-03-18,7
+"2404","Urology",2022-03-25,8
+"2405","Urology",2022-04-01,9
+"2406","Urology",2022-04-08,7
+"2407","Urology",2022-04-15,7
+"2408","Urology",2022-04-22,8
+"2409","Urology",2022-04-29,7
+"2410","Urology",2022-05-06,7
+"2411","Urology",2022-05-13,7
+"2412","Urology",2022-05-20,7
+"2413","Urology",2022-05-27,7
+"2414","Urology",2022-06-03,7
+"2415","Urology",2022-06-10,4
+"2416","Urology",2022-06-17,2
+"2417","Urology",2022-06-24,7
+"2418","Urology",2022-07-01,0
+"2419","Urology",2022-07-08,7
+"2420","Urology",2022-07-15,8
+"2421","Urology",2022-07-22,8
+"2422","Urology",2022-07-29,8
+"2423","Urology",2022-08-05,8
+"2424","Urology",2022-08-12,7
+"2425","Urology",2022-08-19,8
+"2426","Urology",2022-08-26,8
+"2427","Urology",2022-09-02,8
+"2428","Urology",2022-09-09,3
+"2429","Urology",2022-09-16,3
+"2430","Urology",2022-09-23,3
+"2431","Urology",2022-09-30,2
+"2432","Urology",2022-10-07,8
+"2433","Urology",2022-10-14,2
+"2434","Urology",2022-10-21,7
+"2435","Urology",2022-10-28,0
+"2436","Urology",2022-11-04,0
+"2437","Urology",2022-11-11,1
+"2438","Urology",2022-11-18,0
+"2439","Urology",2022-11-25,0
+"2440","Urology",2022-12-02,2
+"2441","Urology",2022-12-09,1
+"2442","Urology",2022-12-16,1
+"2443","Urology",2022-12-23,2
+"2444","Urology",2022-12-30,0
+"2445","Urology",2023-01-06,1
+"2446","Urology",2023-01-13,0
+"2447","Urology",2023-01-20,0
+"2448","Urology",2023-01-27,1
+"2449","Urology",2023-02-03,2
+"2450","Urology",2023-02-10,1
+"2451","Urology",2023-02-17,2
+"2452","Urology",2023-02-24,2
+"2453","Urology",2023-03-03,1
+"2454","Urology",2023-03-10,3
+"2455","Urology",2023-03-17,2
+"2456","Urology",2023-03-24,1
+"2457","Urology",2023-03-31,1
+"2458","Urology",2023-04-07,8
+"2459","Urology",2023-04-14,2
+"2460","Urology",2023-04-21,3
+"2461","Urology",2023-04-28,2
+"2462","Urology",2023-05-05,2
+"2463","Urology",2023-05-12,3
+"2464","Urology",2023-05-19,0
+"2465","Urology",2023-05-26,1
+"2466","Urology",2023-06-02,0
+"2467","Urology",2023-06-09,1
+"2468","Urology",2023-06-16,0
+"2469","Urology",2023-06-23,0
+"2470","Urology",2023-06-30,0
+"2471","Urology",2023-07-07,7
+"2472","Urology",2023-07-14,7
+"2473","Urology",2023-07-21,3
+"2474","Urology",2023-07-28,1
+"2475","Urology",2023-08-04,1
+"2476","Urology",2023-08-11,0
+"2477","Urology",2023-08-18,2
+"2478","Urology",2023-08-25,2
+"2479","Urology",2023-09-01,7
+"2480","Urology",2023-09-08,1
+"2481","Urology",2023-09-15,1
+"2482","Urology",2023-09-22,2
+"2483","Urology",2023-09-29,8
+"2484","Urology",2023-10-06,14
+"2485","Urology",2023-10-13,10
+"2486","Urology",2023-10-20,6
+"2487","Urology",2023-10-27,10
+"2488","Urology",2023-11-03,10
+"2489","Urology",2023-11-10,10
+"2490","Urology",2023-11-17,5
+"2491","Urology",2023-11-24,5
+"2492","Urology",2023-12-01,5
+"2493","Urology",2023-12-08,11
+"2494","Urology",2023-12-15,11
+"2495","Urology",2023-12-22,6
+"2496","Urology",2023-12-29,11
