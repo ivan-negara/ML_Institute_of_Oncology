@@ -16,15 +16,16 @@ Admission_Delays_pre-cleaned - CSV file of the original data set (pre-data clean
 
 Admission_Delays_clean - CSV file of the original data set after data cleaning (English)
 
-**How to Use**
-
-Open and run the provided code. The dataset (Admission_Delays_pre-cleaned.csv) is included for reference.
-
 **Dependencies**
 
 -R studio 4.x
 
 -Libraries are listed at the beginning of the Code.
+
+**How to Use**
+
+After installing the necessary libraries, open and run the provided code. The dataset (Admission_Delays_pre-cleaned.csv) is included for reference.
+
  
 **Contact**
 
