@@ -2,7 +2,7 @@
 
 **Overview**
 
-This repository contains the code and dataset associated with the manuscript titled "Optimizing Patient Flow in Oncology: A Machine Learning Approach to Predicting Admission Delays" submitted to Cancers Journal.
+This repository contains the code and dataset associated with the manuscript titled "Optimizing Patient Flow in Oncology: A Machine Learning Approach to Predicting Admission Delays".
 
 **Contents**
 
